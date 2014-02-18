@@ -1,0 +1,41 @@
+exploring:
+  title: "Exploring"
+  language: en
+  image: /img/discover-360px.jpg
+  image_attribution: http://www.flickr.com/photos/pagedooley/3797236989/
+  based_on: http://p2pu.org/en/groups/diy-u/
+  organizers:
+   - name: Laura
+     image: http://placehold.it/400x400
+     url: https://p2pu.org/mozilla/
+
+building-online:
+  title: "Building Online"
+  language: en
+  image: /img/building-360px.jpg
+  image_attribution: http://www.flickr.com/photos/dorkomatic/5027535256/
+  based_on: 
+  organizers:
+   - name: Laura
+     image: http://placehold.it/400x400
+     url: https://p2pu.org/mozilla/
+
+building-together:
+  title: "Building Together"
+  language: en
+  image: /img/thumbnail-360px.png
+  based_on: 
+  organizers:
+   - name: Laura
+     image: http://placehold.it/400x400
+     url: https://p2pu.org/mozilla/
+
+local-community-global-movement:
+  title: "Local Community Global Movement"
+  language: en
+  image: /img/thumbnail-360px.png
+  based_on: 
+  organizers:
+   - name: Laura
+     image: http://placehold.it/400x400
+     url: https://p2pu.org/mozilla/

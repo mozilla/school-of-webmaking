@@ -1,0 +1,7 @@
+encoding: utf-8
+markdown: redcarpet
+baseurl: /school-of-webmaking
+url: p2pu.github.io/school-of-webmaking/
+permalink: :categories/:title/
+ga_tracking_code:
+disqus_shortname:

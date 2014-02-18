@@ -1,0 +1,22 @@
+---
+layout: base
+itemtype: http://schema.org/WebPage
+---
+<div class="row">
+  <div class="sidebar col-sm-4">
+    <img src="{{site.baseurl}}{{ site.data.course.image }}">
+ 
+    <ul class="nav nav-list">
+    {% for b in site.categories[page.course_category] reversed %}
+        <li> <a href="{{site.baseurl}}{{ b.url }}">{{b.title}}</a></li>
+    {% endfor %}
+    </ul>
+
+  </div>
+
+  <div class="content col-sm-8">
+    <h2>About</h2>
+    {{ content }}
+ 
+  </div>
+</div>
