@@ -3,12 +3,14 @@ layout: base
 itemtype: http://schema.org/WebPage
 ---
 {% assign course=site.data.course[page.course] %}
+
 <div class="row">
   <div class="sidebar col-sm-4">
     {% include course_thumb.html course=course %}
  
     <ul class="nav nav-pills nav-stacked">
-    {% for b in site.categories[page.course] reversed %}
+      <li class="active" ><a href="{{site.baseurl}}/{{course.category}}">About</a></li>
+    {% for b in site.categories[course.category] reversed %}
         <li> <a href="{{site.baseurl}}{{ b.url }}">{{b.title}}</a></li>
     {% endfor %}
     </ul>
