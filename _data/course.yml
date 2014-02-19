@@ -1,5 +1,6 @@
 exploring:
   title: "Exploring"
+  category: exploring
   language: en
   image: /img/discover-360px.jpg
   image_attribution: http://www.flickr.com/photos/pagedooley/3797236989/
@@ -11,6 +12,7 @@ exploring:
 
 building-online:
   title: "Building Online"
+  category: building-online
   language: en
   image: /img/building-360px.jpg
   image_attribution: http://www.flickr.com/photos/dorkomatic/5027535256/
@@ -22,6 +24,7 @@ building-online:
 
 building-together:
   title: "Building Together"
+  category: building-together
   language: en
   image: /img/thumbnail-360px.png
   based_on: 
@@ -32,6 +35,7 @@ building-together:
 
 local-community-global-movement:
   title: "Local Community Global Movement"
+  category: local-community-global-movement
   language: en
   image: /img/thumbnail-360px.png
   based_on: 
