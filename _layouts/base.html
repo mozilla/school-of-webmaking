@@ -31,28 +31,32 @@
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %}>
 
-  <div class="navbar navbar-inverse">
-    <div class="container">
-      <div class="navbar-header">
-        <a class="navbar-brand" href="{{site.baseurl}}/">School of Webmaking</a>
+  <div id="wrap">
+    <div class="navbar navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{{site.baseurl}}/">School of Webmaking</a>
+        </div>
+        <div class="collapse navbar-collapse" collapse="isCollapsed">
+          <ul class="nav navbar-nav">
+            {% for course in site.data.course %}
+              <li {% if course[0] == current_course %}class="active"{% endif %}>
+                <a href="{{site.baseurl}}/{{course[0]}}/" >{{course[1].title}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="https://p2pu.org"><img src="{{site.baseurl}}/img/p2pu-logo.png"></a></li>
+            <li><a href="http://webmaker.org"><img src="{{site.baseurl}}/img/webmaker-logo.png"></a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
       </div>
-      <div class="collapse navbar-collapse" collapse="isCollapsed">
-        <ul class="nav navbar-nav">
-          {% for course in site.data.course %}
-            <li {% if course[0] == current_course %}class="active"{% endif %}>
-              <a href="{{site.baseurl}}/{{course[0]}}/" >{{course[1].title}}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="https://github.com/p2pu/school-of-webmaking"><span class="fa fa-github"></span> p2pu/school-of-webmaking</a></li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
     </div>
-  </div>
+ 
+    <div class="container body">
+      {{ content }}
+    </div>
 
-  <div class="container body">
-    {{ content }}
   </div>
 
   {% include footer.html %}
