@@ -20,14 +20,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="{{site.baseurl}}/img/favicon.ico">
   
-  <!-- Arvo font from google font api -->
-  <link href='https://fonts.googleapis.com/css?family=Arvo:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-
   <link rel="stylesheet" href="{{site.baseurl}}/css/makerstrap.complete.min.css">
   <link rel="stylesheet" href="{{site.baseurl}}/css/site.css">
-  <script src="https://p2pu.org/static/js/libs/jquery-1.8.2.min.js"></script>
-  
-  <script src="https://p2pu.org/static/js/libs/modernizr-1.6.min.js"></script>
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %}>
 
@@ -35,9 +29,14 @@
     <div class="navbar navbar-inverse">
       <div class="container">
         <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#id-collapsable-navbar" >
+            <span class="sr-only">Toggle navigation</span>
+            <span class="fa fa-bars fa-fw"></span>
+          </button>
           <a class="navbar-brand" href="{{site.baseurl}}/">School of Webmaking</a>
         </div>
-        <div class="collapse navbar-collapse" collapse="isCollapsed">
+
+        <div class="collapse navbar-collapse" id="id-collapsable-navbar">
           <ul class="nav navbar-nav">
             {% for course in site.data.course %}
               <li {% if course[0] == current_course %}class="active"{% endif %}>
@@ -60,7 +59,8 @@
   </div>
 
   {% include footer.html %}
-
+  <script src="https://p2pu.org/static/js/libs/jquery-1.8.2.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> 
   <!-- Google Analytics -->
   {% if site.ga_tracking_code %}
     {% include ga.html %}
