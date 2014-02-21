@@ -8,7 +8,7 @@ course: exploring
 
 Welcome to #teachtheweb. We’re glad you’re here. If you’re new to the Mozilla Webmaker community, here is sample of what’s in store:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe>
 
 **What’s #teachtheweb?**
 
