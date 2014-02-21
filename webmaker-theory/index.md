@@ -1,7 +1,7 @@
 ---
 title: About
 layout: multicourse_about
-course: exploring
+course: webmaker-theory
 ---
 
 *“We teach the web in our everyday lives so that future generations can tell their own stories.”*

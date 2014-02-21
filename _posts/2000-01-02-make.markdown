@@ -1,8 +1,7 @@
 ---
 title: Make
 layout: multicourse_page
-categories:
- - exploring
+categories: [webmaker-theory]
 ---
 
 
