@@ -1,5 +1,5 @@
 ---
-title: Open Web
+title: Reflect
 layout: multicourse_page
 categories: [exploring]
 ---
