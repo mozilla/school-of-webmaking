@@ -2,7 +2,7 @@
 title: Make
 layout: multicourse_page
 categories:
- - Webmaker Theory
+ - exploring
 ---
 
 
