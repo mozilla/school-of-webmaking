@@ -1,5 +1,5 @@
 ---
-title: Making as learning
+title: Explore
 layout: multicourse_page
 categories:
  - exploring
