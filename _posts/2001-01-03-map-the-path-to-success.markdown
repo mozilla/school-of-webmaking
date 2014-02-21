@@ -1,7 +1,7 @@
 ---
 title: Reflect
 layout: multicourse_page
-categories: [exploring]
+categories: [building-online]
 ---
 The Open Web is the most important infrastructure and ecosystem that supports connected learning and making in the digital space.
 
