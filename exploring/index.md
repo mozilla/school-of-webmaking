@@ -8,20 +8,20 @@ course: exploring
 
 Welcome to #teachtheweb. We’re glad you’re here. If you’re new to the Mozilla Webmaker community, here is sample of what’s in store:
 
-    <iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe>
 
-**What’s #teachtheweb?**
+## What’s #teachtheweb?**
 
 A nifty blended learning initiative by Mozilla, peer-powered by P2PU. This course is free and open and will be repeating periodically. Read about the very first #teachtheweb here.
 
-**What will I do here?**
+## What will I do here?**
 
 We’re here to help you integrate digital making and web skills into your teaching practice with collaborative, peer-to-peer methodologies. You’ll be learning the community-driven pedagogies behind Webmaker by building things yourself, sharing them with others, and starting to teach the world the web.
 
 Each Module will have 3 parts: you’ll explore, make and reflect--and do so in community. 
 
 
-**Who else is here?**
+## Who else is here?**
 
 If you’re an educator--in school, in your library, in an afterschool program--and you use technology, welcome home. You’re among other passionate folks who do the same stuff, and here to help. 
 
