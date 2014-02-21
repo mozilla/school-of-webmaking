@@ -29,7 +29,7 @@ If you’re an educator--in school, in your library, in an afterschool program--
 ## How do I participate?
 
 Participating is learning. How much you dig in is entirely up to you. You’ll get something out of it every step of the way. A few general ideas.
-- Share your ideas and weekly “makes” in the (Teach the Web G+ Community)[https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1].
+- Share your ideas and weekly “makes” in the [Teach the Web G+ Community](https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1).
 - Find your crew. Look at the intros and makes and follow 2-3 people who sound interesting to you during the course.
 - Tag your posts [#teachtheweb](https://twitter.com/search?q=teachtheweb&src=typd&f=realtime) on Twitter.
 - Recommend other resources in the G+ Community by tagging #ttwresources
