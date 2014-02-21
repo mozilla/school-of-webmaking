@@ -16,6 +16,7 @@ We’re more than handles, icons and profile pictures--we’re humans and peers 
 
 with one of the following webtastic tools:
 
+
 * [XRay Goggles Make](https://goggles.webmaker.org/)
 * [Thimble Make](https://thimble.webmaker.org/en-US)
 * [Popcorn Make](https://popcorn.webmaker.org/en-US)
@@ -30,7 +31,9 @@ As the “Makes” begin to stream in from our cohort, take a look and see:
 * If someone defined “making” or “connected learning” differently than you did. 
 * If someone used a technique or an idea that you’d like to use in the future. 
 
+
 If you are so inspired, either:
+
 
 * Respond to their post, or even better.. 
 * Remix it from your point-of-view. Be sure to mention them with an +[name] when you post it.
