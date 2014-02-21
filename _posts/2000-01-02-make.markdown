@@ -2,22 +2,22 @@
 title: Make
 layout: multicourse_page
 categories:
- - exploring
+ - Explore
 ---
 
 
-## You: the tutorial.
+## You: the Tutorial.
 
 We’re more than handles, icons and profile pictures--we’re humans and peers in this together. In getting started, explore one of the following questions:
 
-- What does “connected learning” mean to you? What does it look like?
-- How would you define “making”? What is something that you see in a new light because of your definition?
-- When is a time you learned something from someone else?
+* What does “connected learning” mean to you? What does it look like?
+* How would you define “making”? What is something that you see in a new light because of your definition?
+* When is a time you learned something from someone else?
 
 with one of the following webtastic tools:
-- [XRay Goggles Make](https://goggles.webmaker.org/)
-- [Thimble Make](https://thimble.webmaker.org/en-US)
-- [Popcorn Make](https://popcorn.webmaker.org/en-US)
+* [XRay Goggles Make](https://goggles.webmaker.org/)
+* [Thimble Make](https://thimble.webmaker.org/en-US)
+* [Popcorn Make](https://popcorn.webmaker.org/en-US)
 
 Then go ahead and post your first “Make” to the [Google+ page](https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1): 
 
@@ -25,18 +25,18 @@ Then go ahead and post your first “Make” to the [Google+ page](https://plus.
 ## Us: the Tutorial
 
 As the “Makes” begin to stream in from our cohort, take a look and see:
-- If someone defined “making” or “connected learning” differently than you did. 
-- If someone used a technique or an idea that you’d like to use in the future. 
+* If someone defined “making” or “connected learning” differently than you did. 
+* If someone used a technique or an idea that you’d like to use in the future. 
 
 If you are so inspired, either:
-- a.) respond to their post, or even better.. 
-- b.) remix it from your point-of-view. Be sure to mention them with an +[name] when you post it.
+* Respond to their post, or even better.. 
+* Remix it from your point-of-view. Be sure to mention them with an +[name] when you post it.
 
 ## Connect Yourself to Connected Learning
 
 Identify an exercise in your teaching practice that you might redesign using Connected Learning principles. Walk us through how you “usually” do it, and then what your new experience would look like. 
 
-If you’d like some further “inspiration” try hitting up the DML Hub or Connected Learning site for some tasty resources. Link to the resource that inspired you in your post.
+If you’d like some further “inspiration” try hitting up the [DML Hub](http://dmlhub.net/research) or [Connected Learning](http://connectedlearning.tv/) site for some tasty resources. Link to the resource that inspired you in your post.
 
 ## Open it Up
 
