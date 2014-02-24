@@ -1,5 +1,4 @@
 ---
-title: School of Webmaking
 layout: base
 ---
 
