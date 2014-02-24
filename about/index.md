@@ -20,8 +20,7 @@ We’re here to help you integrate digital making and web skills into your teach
 
 Each Module will have 3 parts: you’ll explore, make and reflect--and do so in community. 
 
-<iframe src="https://www.flickr.com/photos/mozzadrella/12678213245/player/c6b94dbd4f" height="158" width="394"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
+![Explore-make-reflect image]({{site.baseurl}}/img/explore-make-reflect.png)
 
 ## Who else is here?
 
@@ -37,24 +36,4 @@ Participating is learning. How much you dig in is entirely up to you. You’ll g
 
 You aren’t alone, and there are no mistakes. In fact, here’s your network of support in #teachtheweb.
 
-<iframe src="https://www.flickr.com/photos/mozzadrella/12678683414/player/bc406d1e5d" height="768" width="1024"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Teach the web community]({{site.baseurl}}/img/ttw-community.jpg)
