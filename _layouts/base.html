@@ -42,7 +42,9 @@
           <ul class="nav navbar-nav">
             {% for course in site.data.course %}
               <li {% if course[0] == current_course %}class="active"{% endif %}>
-                <a href="{{site.baseurl}}/{{course[0]}}/" >{{course[1].title}}</a>
+                {% assign course_category=course[1].category %}
+                {% assign cp=site.categories[course_category] | last %}
+                <a href="{{site.baseurl}}{{ cp.url }}">{{course[1].title}}</a>
               </li>
             {% endfor %}
           </ul>

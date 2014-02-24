@@ -9,7 +9,6 @@ layout: base
     {% include course_thumb.html course=course %}
 
     <ul class="nav nav-pills nav-stacked">
-      <li><a href="{{site.baseurl}}/{{course.category}}">About</a></li>
     {% for subpage in site.categories[course.category] reversed %}
       <li class="{% if subpage.title == page.title %}active{% endif %}" > <a href="{{site.baseurl}}{{ subpage.url }}">{{subpage.title}}</a></li>
     {% endfor %}
