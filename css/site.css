@@ -24,3 +24,18 @@ body {
 #footer {
     height: 220px;
 }
+
+.course-image {
+    position: relative;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.attribution {
+    position: absolute;
+    background: none repeat scroll 0 0 #FFffff;
+    opacity: 0.7;
+    width: 100%;
+    bottom: 0;
+    left:0;
+}
