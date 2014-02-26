@@ -4,14 +4,16 @@ layout: multicourse_page
 categories: [webmaker-theory]
 ---
 
-# Explore.
+# Explore the principles behind Webmaker.
 
 **First, a bit of background to set the stage....**
-There are some core ideas that undergird the Mozilla “way.” We’ll sum them up for you in short order..
+There are some core ideas that underpin the Mozilla Webmaker “way” of teaching. We’ll sum them up for you in short order..
+
+##Making is Learning.
 
 **We are all makers.** We cook, sew, construct, write, play music, tinker, paint, tell stories. We engage in our world through the creation of thousands of artifacts that allow others to understand our outlooks and world views. **We express ourselves through creation.** We always have. And in all of our making we express ourselves and then we reflect on what we've created. **We share our creations with others and we ask for feedback.** “Do you like my new recipe?” “What do you think of my painting?”
 
-Throughout our process, we learn. It is through trial and error and the ever important failure that we learn what to do and what not to do. Learning to make something work involves discovery and wonder - it's a spiral of intrinsic motivation; each new understanding unlocks new questions. We improve our skills as we create.
+Throughout our process, we learn. It is through trial and error and the ever important failure that we learn what to do and what not to do. Learning to make something work involves discovery and wonder - it's a spiral of <a href="http://en.wikipedia.org/wiki/Motivation#Intrinsic_and_extrinsic_motivation">intrinsic motivation</a>; each new understanding unlocks new questions. We improve our skills as we create.
 
 In the Making as Learning Movement, networks like <a href="http://webmaker.org">Webmaker</a>, the <a href="http://explorecreateshare.org">Hive Learning Networks</a>, <a href="https://twitter.com/make2learn">Make to Learn</a>, the <a href="http://digitalis.nwp.org">National Writing Project</a> and many, many more are integrating interested-based, hands on activities into their lesson plans and programming to focus more squarely on each learner's needs and building community in the process. These networks are experimenting with changing the power dynamic between teacher and learner, instead forming networks of peers, and using the idea of mentorship to level up competencies, both in the “learner” as well as the “teacher”.
 
@@ -35,23 +37,30 @@ There are a variety of networks that seek to put these principles and values int
 
 In practice, it would seem that both hyper-local aspects as well as global connections play an important role in Connected Learning.
 
-![placeholder][1] <a href="https://webmaker.org/en-US/search?type=all&amp;q=makeprompt1">![Make something][2]</a> ![placeholder][3]<a href="http://www.lessonpaths.com/learn/i/teachtheweb-connected-learning">![Go deeper into this topic][4]</a> ![placeholder][5]<a href="https://laura.makes.org/thimble/reflect-on-teach-the-web-part-1-exploring">![Reflect on your learning][6]</a>
+##Open Web
 
-  [1]: http://placehold.it/240/ffffff/ffffff
-  [2]: https://stuff.webmaker.org/teach-assets/teachtheweb/images/btns-p2pu-teachtheweb-make.png
-  [3]: http://placehold.it/20/ffffff/ffffff
-  [4]: https://stuff.webmaker.org/teach-assets/teachtheweb/images/btns-p2pu-teachtheweb-explore.png
-  [5]: http://placehold.it/20/ffffff/ffffff
-  [6]: https://stuff.webmaker.org/teach-assets/teachtheweb/images/btns-p2pu-teachtheweb-reflect.png
+When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) through the lens of copyright/copyleft, ii) through the technical structures that make a webpage open or not, iii) through the cultural practices the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
+
+###Tenets of Openness
+![A Mark Surman Doodle][8]
+
+Nevertheless, there are several tenets of openness that apply to the technical implementation as well as the social and cultural usage of the Web:
+
+The first is **decentralization**. The Open Web is made up of thousands and thousands of independent servers and webpages. The networked computers that make up the Internet are not owned by any single entity. Additionally, webpages are created and maintained by millions of people. Decentralization in the social and cultural space is inherent in the Open Web.
+
+Another tenet is **transparency**. You can see how any webpage is built, you can copy a webpages code and duplicate and/or remix it to be your own by viewing its source code. Furthermore, the culture of Open is one that transparent about processes, creations and authors. We make media and write posts about our work. We ask questions and allow anyone to feedback on them through commenting and social media. We change things based on what our peers say, and we explain our decisions openly, so that everyone can see not only what we've done, but how and why. We iterate on our ideas based on the feedback we receive from our peers.
+
+With decentralization and transparency comes the tenet of **hackability**. The Open Web is a structure that makes remix and redistribution easy, and the culture that lives by these tenets takes pride in extending, changing and reforming each other's work. Because we can see how things are built, we can change them and apply new meaning and context atop someone else's ideas. We start to have a conversation through production, and that is something that is supported by and encouraged through the Open Web and Open Culture.
+
+###Ownership and Authorship
+![Good vs Bad Theft from Austin Kleon][9]
+
+**A remix creates a derivative work from an original.** In the web context, remix is used to imply that a new work is built off an already established base. That “base” work might be a code base, a curriculum base, an image base, a text base, etc.
+
+What's important about ideas and creation in an open context is making sure that credit is given where credit is due. Since we all influence each other, **it's important to make note of who influences your work and how.**
+
+**Let's explore open collaboration together.** Below are some ideas on how you might explore the Open Web through making. This short blog post barely scratches the surface of what the Open Web is or why it should be protected. Below are a variety of readings that will help you **delve deeper into the idea of “openness” and why it's important.**
+
   [7]: http://connectedlearning.tv/sites/connectedlearning.tv/files/DG_Macarthur_r03-960_0.jpeg
-
-
-
- ![placeholder][1] <a href="https://webmaker.org/en-US/search?type=all&amp;q=makeprompt1">![Make something][2]</a> ![placeholder][3]<a href="http://www.lessonpaths.com/learn/i/teachtheweb-making-as-learning">![Go deeper into this topic][4]</a> ![placeholder][5]<a href="https://laura.makes.org/thimble/reflect-on-teach-the-web-part-1-exploring">![Reflect on your learning][6]</a>
-
-   [1]: http://placehold.it/240/ffffff/ffffff
-   [2]: https://stuff.webmaker.org/teach-assets/teachtheweb/images/btns-p2pu-teachtheweb-make.png
-   [3]: http://placehold.it/20/ffffff/ffffff
-   [4]: https://stuff.webmaker.org/teach-assets/teachtheweb/images/btns-p2pu-teachtheweb-explore.png
-   [5]: http://placehold.it/20/ffffff/ffffff
-   [6]: https://stuff.webmaker.org/teach-assets/teachtheweb/images/btns-p2pu-teachtheweb-reflect.png
+  [8]: http://commonspace.files.wordpress.com/2010/06/open-web-1-of-1.jpg
+  [9]: http://farm7.staticflickr.com/6215/6289302147_38e8035680_z.jpg
