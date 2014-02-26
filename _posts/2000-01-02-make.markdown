@@ -3,9 +3,10 @@ title: Make
 layout: multicourse_page
 categories: [webmaker-theory]
 ---
-#Make
 
-## You: the Tutorial.
+#Make to learn!
+
+## Your point of view
 
 We’re more than handles, icons and profile pictures--we’re humans and peers in this together. In getting started, explore one of the following questions:
 
@@ -22,7 +23,7 @@ with one of the following webtastic tools:
 Then go ahead and post your first “Make” to the [Google+ page](https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1): 
 
 
-## Us: the Tutorial
+## Someone else's point of view
 
 As the “Makes” begin to stream in from our cohort, take a look and see:
 

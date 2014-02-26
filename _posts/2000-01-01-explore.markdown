@@ -4,7 +4,7 @@ layout: multicourse_page
 categories: [webmaker-theory]
 ---
 
-# Explore the foundations behind Webmaker.
+# Explore the principles behind Webmaker.
 
 **First, a bit of background to set the stage....**
 There are some core ideas that underpin the Mozilla Webmaker “way” of teaching. We’ll sum them up for you in short order..
