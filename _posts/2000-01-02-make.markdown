@@ -4,7 +4,7 @@ layout: multicourse_page
 categories: [webmaker-theory]
 ---
 
-#Make to learn!
+#Make to learn tech skills and concepts.
 
 ## Your point of view
 
