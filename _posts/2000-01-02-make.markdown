@@ -1,5 +1,5 @@
 ---
-title: Make
+title: <span class="glyphicon glyphicon-hand-up"></span> Make
 layout: multicourse_page
 categories: [webmaker-theory]
 ---
