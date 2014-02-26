@@ -24,6 +24,7 @@
   <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
   <link href="{{site.baseurl}}/css/makerstrap.min.css" rel="stylesheet">
   <link href="{{site.baseurl}}/css/site.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/css/landing.css" rel="stylesheet">
 </head>
 <body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %}>
 
@@ -58,10 +59,8 @@
         </div><!-- /.navbar-collapse -->
       </div>
     </div>
- 
-    <div class="container body">
-      {{ content }}
-    </div>
+
+    {{ content }}
 
   </div>
 
