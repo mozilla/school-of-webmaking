@@ -41,9 +41,7 @@
 
         <div class="collapse navbar-collapse" id="id-collapsable-navbar">
           <ul class="nav navbar-nav">
-            <li {% if page.about %}class="active"{% endif %}>
-              <a href="{{site.baseurl}}/about/">About</a>
-            </li>
+            
             {% for course in site.data.course %}
               <li {% if course[0] == current_course %}class="active"{% endif %}>
                 {% assign course_category=course[1].category %}
