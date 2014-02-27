@@ -1,0 +1,15 @@
+<ul class="nav navbar-nav">
+  
+  {% for course in site.data.course %}
+    <li {% if course[0] == current_course %}class="active"{% endif %}>
+      {% assign course_category=course[1].category %}
+      {% assign cp=site.categories[course_category] | last %}
+      <a href="{{site.baseurl}}{{ cp.url }}">{{course[1].title}}</a>
+    </li>
+  {% endfor %}
+</ul>
+<ul class="nav navbar-nav navbar-right">
+  <li><a href="https://p2pu.org"><img src="{{site.baseurl}}/img/p2pu-logo.png"></a></li>
+  <li><a href="http://webmaker.org"><img src="{{site.baseurl}}/img/webmaker-logo.png"></a></li>
+</ul>
+
