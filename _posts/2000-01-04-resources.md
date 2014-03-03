@@ -24,6 +24,7 @@ Making as Learning
 * Henry Jenkin's connected learning/new media literacies http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html and working with young adults to utilize their existing skillsets for learning http://digitallearning.macfound.org/atf/cf/%7B7E45C7E0-A3E0-4B89-AC9C-E807E1B0AE4E%7D/JENKINS_WHITE_PAPER.PDF.
 
 Connected Learning
+
 * Connected Learning Principles: http://connectedlearning.tv/connected-learning-principles
 * Good introductory read: http://digitalis.nwp.org/collection/learning-connected-learning
 * Hive NYC http://explorecreateshare.org
@@ -33,6 +34,7 @@ Connected Learning
 * A massive list of Connected Learning posts at the DML site: http://dmlcentral.net/tags/connected-learning
 
 Open Web
+
 * ETMOOC's post on The Open Movement – Open Access, OERs & Future of Education http://etmooc.org/blog/2013/03/02/topic-4-the-open-movement-open-access-oers-future-of-education/
 http://www.zythepsary.com/rants/open-web-and-why-you-should-be-paying-attention/
 * How to Work Open http://openmatt.org/2011/04/06/how-to-work-open/
