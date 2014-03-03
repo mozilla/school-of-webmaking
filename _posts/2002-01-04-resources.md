@@ -1,5 +1,5 @@
 ---
-title: Further Resources
+title: <span class="fa fa-book"></span> Further Resources
 layout: multicourse_page
 categories: [building-together]
 ---
