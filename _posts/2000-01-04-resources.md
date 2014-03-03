@@ -8,20 +8,20 @@ categories: [webmaker-theory]
 
 Making as Learning
 
-* Good introductory read: http://empathetics.org/2013/02/12/is-making-learning-considerations-as-education-embraces-the-maker-movement/?
-* Get Started with Popcorn: https://webmaker.org/en-US/projects/get-started-popcorn-maker/
-* Stats about why coding is important for students in the long run http://www.code.org/stats
-* Article about DefCon's Kid's Track and why hacking is a good thing for students. "It’s the original creative spirit and emphasis on skill  building and  inquiry that Chris Hoff is hoping to instill in the next  generation." http://www.schoollibraryjournal.com/slj/printissue/currentissue/892013-427/license_to_hack_kids_are.html.csp
-* "Children's Narrative Development through Computer Game Authoring" https://docs.google.com/file/d/0BythwBbRxgf1NzBUVFdNN1JhT0E/edit?usp=sharing
-* "Evaluating the Use of Mulitmedia authoring with Dyslexic Learners: A Case Study" https://docs.google.com/file/d/0BythwBbRxgf1bEdSVGRlVWhlUE0/edit?usp=sharing
-* TEDx video from creator of Scratch http://boingboing.net/2013/01/21/206830.html
-* "Scratch: Multimedial programming environment for young gifted learners" https://docs.google.com/file/d/0BythwBbRxgf1d3B2NnZPNGZteTg/edit?usp=sharing
-* Scratch--designed specifically to help kids learn to code:http://scratch.mit.edu/
-* Sir Ken Robinson changing educational paradigms http://www.youtube.com/watch?v=8Qx2iHknT1E
-* Bret Victor Inventing on Principle http://worrydream.com/InventingOnPrinciple/
-* Sylvia's Super-Aweseome Maker Show http://sylviashow.com/
-* Epistemological Pluralism and the Revaluation of the Concrete by Sherry Turkle & Seymour Papert http://www.papert.org/articles/EpistemologicalPluralism.html
-* Henry Jenkin's connected learning/new media literacies http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html and working with young adults to utilize their existing skillsets for learning http://digitallearning.macfound.org/atf/cf/%7B7E45C7E0-A3E0-4B89-AC9C-E807E1B0AE4E%7D/JENKINS_WHITE_PAPER.PDF.
+* [Good introductory read](http://empathetics.org/2013/02/12/is-making-learning-considerations-as-education-embraces-the-maker-movement/?)
+* [Get Started with Popcorn](https://webmaker.org/en-US/projects/get-started-popcorn-maker/)
+* Stats about why coding is important for students in the long run [www.code.org/stats](http://www.code.org/stats)
+* Article about DefCon's Kid's Track and why hacking is a good thing for students. ["It’s the original creative spirit and emphasis on skill  building and  inquiry that Chris Hoff is hoping to instill in the next  generation."](http://www.schoollibraryjournal.com/slj/printissue/currentissue/892013-427/license_to_hack_kids_are.html.csp)
+* ["Children's Narrative Development through Computer Game Authoring"](https://docs.google.com/file/d/0BythwBbRxgf1NzBUVFdNN1JhT0E/edit?usp=sharing)
+* ["Evaluating the Use of Mulitmedia authoring with Dyslexic Learners: A Case Study"](https://docs.google.com/file/d/0BythwBbRxgf1bEdSVGRlVWhlUE0/edit?usp=sharing)
+* [TEDx video from creator of Scratch](http://boingboing.net/2013/01/21/206830.html)
+* ["Scratch: Multimedial programming environment for young gifted learners"](https://docs.google.com/file/d/0BythwBbRxgf1d3B2NnZPNGZteTg/edit?usp=sharing)
+* Scratch--designed specifically to help kids learn to code: [scratch.mit.edu](http://scratch.mit.edu/)
+* [Sir Ken Robinson changing educational paradigms](http://www.youtube.com/watch?v=8Qx2iHknT1E)
+* Bret Victor [Inventing on Principle](http://worrydream.com/InventingOnPrinciple/)
+* Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
+* [Epistemological Pluralism and the Revaluation of the Concrete by Sherry Turkle & Seymour Papert](http://www.papert.org/articles/EpistemologicalPluralism.html)
+* Henry Jenkin's [connected learning/new media literacies](http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html) and [working with young adults to utilize their existing skillsets for learning](http://digitallearning.macfound.org/atf/cf/%7B7E45C7E0-A3E0-4B89-AC9C-E807E1B0AE4E%7D/JENKINS_WHITE_PAPER.PDF).
 
 Connected Learning
 
