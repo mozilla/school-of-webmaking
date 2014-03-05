@@ -18,11 +18,24 @@ layout: base
   <div class="content col-sm-8">
     {{ content }}
 
-    <p>{% include edit_on_github.html %}</p>
     {% if site.disqus_shortname %}
       <hr/>
       {% include disqus.html %}
     {% endif %}
+
+    {% if page.topic_url %}
+      <h2>Discussion</h2>
+      <div id="discourse"></div>
+      <script src="{{site.baseurl}}/js/discourse.js?{{page.topic_url}}"></script>
+      <script type="text/javascript">
+          window.onload = function(){
+            write_discourse_section("{{page.topic_url}}");
+          }
+      </script>
+    {% endif %}
+
+    <p>{% include edit_on_github.html %}</p>
+
   </div>
 
 </div>

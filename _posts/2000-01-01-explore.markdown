@@ -1,6 +1,7 @@
 ---
 title: <span class="fa fa-random"></span> Explore
 layout: multicourse_page
+topic_url: http://thepeople.p2pu.org/t/please-introduce-yourself/28
 categories: [webmaker-theory]
 ---
 
