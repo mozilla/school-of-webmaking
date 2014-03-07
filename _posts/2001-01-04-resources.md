@@ -1,7 +1,7 @@
 ---
-title: <span class="fa fa-book"></span> Further Resources
+title: <span class="fa fa-book"></span> Resources
 layout: multicourse_page
-categories: [building-online]
+categories: [building]
 ---
 
 
