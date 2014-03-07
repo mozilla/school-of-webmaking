@@ -1,6 +1,6 @@
-webmaker-theory:
-  title: "Webmaker Theory"
-  category: webmaker-theory
+exploring:
+  title: "Exploring"
+  category: exploring
   language: en
   based_on:
   image: /img/discover-360px.jpg
@@ -10,9 +10,9 @@ webmaker-theory:
      image: http://placehold.it/400x400
      url: https://p2pu.org/mozilla/
 
-building-online:
-  title: "Building Online"
-  category: building-online
+building:
+  title: "Building"
+  category: building
   language: en
   based_on:
   image: /img/building-360px.jpg
@@ -22,9 +22,9 @@ building-online:
      image: http://placehold.it/400x400
      url: https://p2pu.org/mozilla/
 
-building-together:
-  title: "Building Together"
-  category: building-together
+facilitating:
+  title: "Facilitating"
+  category: facilitating
   language: en
   based_on:
   image: /img/thumbnail-360px.png
@@ -33,9 +33,9 @@ building-together:
      image: http://placehold.it/400x400
      url: https://p2pu.org/mozilla/
 
-local-community-global-movement:
-  title: "Local Community Global Movement"
-  category: local-community-global-movement
+connecting:
+  title: "Connecting"
+  category: connecting
   language: en
   image: /img/thumbnail-360px.png
   based_on: 
