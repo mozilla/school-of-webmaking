@@ -24,7 +24,7 @@ Cultural anthropologists and researchers funded by the MacArthur Foundation's Di
 
 This model (see below) is based on a large body of research and includes Connected Learning principles and core values.
 
-![the Connected Learning Model available at http://connectedlearning.tv/infographic][7]
+<a href="http://connectedlearning.tv/infographic"><img alt="the Connected Learning Model" src="http://connectedlearning.tv/sites/connectedlearning.tv/files/DG_Macarthur_r03-960_0.jpeg" style="float:left; width:400px; margin-right:4%;"/></a>
 
 These principles state that education in the modern world needs to be:
 
@@ -53,8 +53,8 @@ Another tenet is **transparency**. You can see how any webpage is built, you can
 
 With decentralization and transparency comes the tenet of **hackability**. The Open Web is a structure that makes remix and redistribution easy, and the culture that lives by these tenets takes pride in extending, changing and reforming each other's work. Because we can see how things are built, we can change them and apply new meaning and context atop someone else's ideas. We start to have a conversation through production, and that is something that is supported by and encouraged through the Open Web and Open Culture.
 
+<img alt="Good vs Bad Theft from Austin Kleon" src="http://farm7.staticflickr.com/6215/6289302147_38e8035680_z.jpg" style="float:right;width:200px;"/>
 ###Ownership and Authorship
-![Good vs Bad Theft from Austin Kleon][9]
 
 **A remix creates a derivative work from an original.** In the web context, remix is used to imply that a new work is built off an already established base. That “base” work might be a code base, a curriculum base, an image base, a text base, etc.
 
@@ -62,6 +62,4 @@ What's important about ideas and creation in an open context is making sure that
 
 **Let's explore open collaboration together.** Below are some ideas on how you might explore the Open Web through making. This short blog post barely scratches the surface of what the Open Web is or why it should be protected. Below are a variety of readings that will help you **delve deeper into the idea of “openness” and why it's important.**
 
-  [7]: http://connectedlearning.tv/sites/connectedlearning.tv/files/DG_Macarthur_r03-960_0.jpeg
   [8]: http://commonspace.files.wordpress.com/2010/06/open-web-1-of-1.jpg
-  [9]: http://farm7.staticflickr.com/6215/6289302147_38e8035680_z.jpg
