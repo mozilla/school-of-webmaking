@@ -1,12 +1,19 @@
 <ul class="nav navbar-nav">
-  
-  {% for course in site.data.course %}
-    <li {% if course[0] == current_course %}class="active"{% endif %}>
-      {% assign course_category=course[1].category %}
-      {% assign cp=site.categories[course_category] | last %}
-      <a href="{{site.baseurl}}{{ cp.url }}">{{course[1].title}}</a>
-    </li>
-  {% endfor %}
+ 
+  <li {% if page.start_here %}class="active"{% endif %}><a href="{{ site.baseurl }}/start-here/">Start here</a></li> 
+  <li class="dropdown{% if current_course %} active{% endif %}">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules <b class="caret"></b></a>
+    <ul class="dropdown-menu">
+      {% for course in site.data.course %}
+        <li {% if course[0] == current_course %}class="active"{% endif %}>
+          {% assign course_category=course[1].category %}
+          {% assign cp=site.categories[course_category] | last %}
+          <a href="{{site.baseurl}}{{ cp.url }}">{{course[1].title}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+  <li {% if page.about %}class="active"{% endif %}><a href="{{ site.baseurl }}/about/">About</a></li> 
 </ul>
 <ul class="nav navbar-nav navbar-right">
   <li><a href="https://p2pu.org"><img src="{{site.baseurl}}/img/p2pu-logo.png"></a></li>
