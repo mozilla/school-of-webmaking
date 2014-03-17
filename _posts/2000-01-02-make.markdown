@@ -6,6 +6,8 @@ categories: [exploring]
 
 #Make to learn tech skills and concepts.
 
+Choose one of these "Make" activities, and share your work with the community for feedback. After your first make, move on to think through how you might assess the skills you've learned through making a Badge (Make #4).
+
 ## Say "Hello" by showing #teachtheweb what you think.
 
 We’re more than handles, icons and profile pictures--we’re humans and peers in this together. In getting started, explore one of the following questions:
@@ -49,4 +51,20 @@ If you’d like some further “inspiration” try hitting up the [DML Hub](http
 
 ## Open it Up
 
-When have you been surprised and delighted that something was “open” for you to use? Create a “make” about that experience.
+When have you been surprised and delighted that something was “open” for you to use? This could be OER content, an open web tool, or a picture you found on the internet. Create a “make” about that experience.
+
+## Make to Reflect
+
+Over the course of #Teachtheweb, we're developing an understanding of the following ideas:
+
+- Making as a way of learning
+- Building open learning experiences for others 
+- Delivering feedback and iterating via playtesting
+- Practicing openness 
+
+If you were to create a Badge to reflect the skills you mastered in your Make, what would that Badge be? Go ahead and:
+
+- Give it a name: what would you call your Badge?
+- Make a visual: what would your Badge look like? Draw the icon or create a little jpeg. 
+- List the criteria: what would the criteria for the Badge be? How would someone show the skills you mastered in your make?
+- Share it with us. Let the community know how you think these skills should be assessed.
