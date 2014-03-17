@@ -4,46 +4,71 @@ layout: multicourse_page
 categories: [exploring]
 ---
 
-# Resource Library
+# Further Resources
 
-Making as Learning
+## Making as Learning
 
-* [Good introductory read](http://empathetics.org/2013/02/12/is-making-learning-considerations-as-education-embraces-the-maker-movement/?)
-* [Get Started with Popcorn](https://webmaker.org/en-US/projects/get-started-popcorn-maker/)
-* Stats about why coding is important for students in the long run [www.code.org/stats](http://www.code.org/stats)
-* Article about DefCon's Kid's Track and why hacking is a good thing for students. ["It’s the original creative spirit and emphasis on skill  building and  inquiry that Chris Hoff is hoping to instill in the next  generation."](http://www.schoollibraryjournal.com/slj/printissue/currentissue/892013-427/license_to_hack_kids_are.html.csp)
-* ["Children's Narrative Development through Computer Game Authoring"](https://docs.google.com/file/d/0BythwBbRxgf1NzBUVFdNN1JhT0E/edit?usp=sharing)
-* ["Evaluating the Use of Mulitmedia authoring with Dyslexic Learners: A Case Study"](https://docs.google.com/file/d/0BythwBbRxgf1bEdSVGRlVWhlUE0/edit?usp=sharing)
-* [TEDx video from creator of Scratch](http://boingboing.net/2013/01/21/206830.html)
-* ["Scratch: Multimedial programming environment for young gifted learners"](https://docs.google.com/file/d/0BythwBbRxgf1d3B2NnZPNGZteTg/edit?usp=sharing)
-* Scratch--designed specifically to help kids learn to code: [scratch.mit.edu](http://scratch.mit.edu/)
-* [Sir Ken Robinson changing educational paradigms](http://www.youtube.com/watch?v=8Qx2iHknT1E)
-* Bret Victor [Inventing on Principle](http://worrydream.com/InventingOnPrinciple/)
-* Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
-* [Epistemological Pluralism and the Revaluation of the Concrete by Sherry Turkle & Seymour Papert](http://www.papert.org/articles/EpistemologicalPluralism.html)
-* Henry Jenkin's [connected learning/new media literacies](http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html) and [working with young adults to utilize their existing skillsets for learning](http://digitallearning.macfound.org/atf/cf/%7B7E45C7E0-A3E0-4B89-AC9C-E807E1B0AE4E%7D/JENKINS_WHITE_PAPER.PDF).
+>..the best maker-driven learning is never just about the making. It’s about all the things that happen around the making. That initial spark of curiosity, the investigation and early tinkering, the planning and research that follow, the inspirations and appropriations from other projects, the prototypes, the failures, the feedback, and, perhaps most importantly, the iterations upon iterations towards a better make. All of these acts are done in and contingent on well configured social contexts, in communities of practice and affinity spaces. 
 
-Connected Learning
+--Rafi Santo, "[Is Making Learning? Considerations as education embraces the Maker Movement](http://empathetics.org/2013/02/12/is-making-learning-considerations-as-education-embraces-the-maker-movement/?)"
 
-* Connected Learning Principles: http://connectedlearning.tv/connected-learning-principles
-* Good introductory read: http://digitalis.nwp.org/collection/learning-connected-learning
+### Trying and Tinkering in the Making Process
+
+[![Bret Victor - Inventing on Principle](http://img.youtube.com/vi/wxWM4t68cR4/0.jpg)](http://www.youtube.com/watch?v=wxWM4t68cR4)
+
+--Bret Victor, [Inventing on Principle](http://worrydream.com/InventingOnPrinciple/)
+
+### Different Styles of Making
+
+>"This aspect of Anne's work -- her close, almost tactile involvement with the sprites -- enables us to make a bridge between styles of programming and styles, this time, not of moral discourse, but of doing science. The fact of diverse styles of expert programming supports the idea that there can be different but equal voices even where the formal has traditionally appeared as almost definitionally supreme: logic, mathematics, and the "hard" sciences."
+
+--Sherry Turkle and Seymour Papert, "[Epistemological Pluralism and the Revaluation of the Concrete](http://www.papert.org/articles/EpistemologicalPluralism.html)"
+
+### Making and Teaching Others 
+
+![Super-Aweseome Maker Show](https://farm4.staticflickr.com/3707/13227021714_16915001c3_z.jpg "Sylvia's Super Awesome Maker Show")
+
+Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
+
+### Connected Learning
+> At the core of connected learning are three values: 
+>>Equity — when educational opportunity is available and accessible to all young people, it elevates the world we all live in. 
+
+>>Full Participation — learning environments, communities, and civic life thrive when all members actively engage and contribute.
+
+>>Social connection — learning is meaningful when it is part of valued social relationships and shared practice, culture, and identity. 
+>
+
+-- Henry Jenkin's [Connected Learning](http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html) 
+
+### Openness 
+
+> Rather, the Open Movement is an umbrella term that describes a number of overlapping and interrelated movements that, collectively, support the idea of a free and open society in the Arts, Education, government, computing/code, research, technology, medicine, copyright/copyleft, and other key areas. 
+
+-- ETMOOC's ["The Open Movement – Open Access, OERs & Future of Education"](http://etmooc.org/blog/2013/03/02/topic-4-the-open-movement-open-access-oers-future-of-education/)
+
+> The goal of open is:
+
+>>*participation.* rocket fuel for smart collaboration.
+
+>>*agility.* speed. flexibility. getting shit done.
+
+>>*momentum.* communities want to push boulders that are already rolling.
+
+>>*testing and rapid prototyping.* iterating and refining as we go.
+
+>>*leverage.* getting greater bang from limited resources. punching above our weight.
+
+-- Matt Thompson, ["How to Work Open"](http://openmatt.org/2011/04/06/how-to-work-open/)
+
+### Connected Learning Communities
+
 * Hive NYC http://explorecreateshare.org
 * NWP http://nwp.org
 * Connected Learning Google + Community: https://plus.google.com/u/0/communities/113655426574061601680?cfem=1
 * Connected Learning: Tying Student Passions to School Subjects: http://blogs.kqed.org/mindshift/2013/04/connected-learning-tying-to-student-passions-to-school-subjects/
 * A massive list of Connected Learning posts at the DML site: http://dmlcentral.net/tags/connected-learning
 
-Open Web
 
-* ETMOOC's post on The Open Movement – Open Access, OERs & Future of Education http://etmooc.org/blog/2013/03/02/topic-4-the-open-movement-open-access-oers-future-of-education/
-http://www.zythepsary.com/rants/open-web-and-why-you-should-be-paying-attention/
-* How to Work Open http://openmatt.org/2011/04/06/how-to-work-open/
-* Program or be Programmed:10 Commands for a Digital Age http://www.youtube.com/watch?v=imV3pPIUy1k
-* Open Schools for Open Societies by Chad Sansing http://coopcatalyst.wordpress.com/2012/11/11/mozfest-open-schools-for-open-societies/
-* Creative Commons licenses https://creativecommons.org/choose/
-why, oh why, CC-BY? http://nowviskie.org/2011/why-oh-why-cc-by/
-* How Resilent is Open? http://abject.ca/how-resilient-is-open/
-* The Naked Writer Project - An author writes book with viewers watching live and commenting via Google Docs
-http://silviahartmann.com/books-dragon-lords.php
-"ideas that are free spread faster & ideas that spread win" Seth Godin, http://youtu.be/zXGAAvGoXMc
-* 'How to write a good bug'  http://www.thecssdiv.co.uk/2013/03/writing-a-good-bug/
+
+
