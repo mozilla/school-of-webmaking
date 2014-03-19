@@ -31,28 +31,18 @@
     <nav class="navbar navbar-webmaker">
       <div class="container">
         <div class="navbar-header">
-          <button ng-click="isCollapsed = !isCollapsed" class="navbar-toggle" type="button">
-            <span class="sr-only ng-binding">Toggle navigation</span>
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#id-collapsable-navbar" >
+            <span class="sr-only">Toggle navigation</span>
             <span class="fa fa-bars fa-lg"></span>
           </button>
-          <a class="logo webmaker-logo" href="https://webmaker.org/en-US"><img src="https://webmaker.org/img/logo.png"></a>
+          <a class="logo webmaker-logo" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/img/training-logo.png"></a>
         </div>
       </div>
     </nav>
 
-    <nav class="navbar navbar-inverse navbar-no-header-xs" role="navigation">
+    <nav class="navbar navbar-inverse navbar-no-header-xs collapse navbar-collapse" role="navigation" id="id-collapsable-navbar">
       <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#id-collapsable-navbar" >
-            <span class="sr-only">Toggle navigation</span>
-            <span class="fa fa-bars fa-fw"></span>
-          </button>
-          <a class="navbar-brand" href="{{site.baseurl}}/">Webmaker Training</a>
-        </div>
-
-        <div class="collapse navbar-collapse" id="id-collapsable-navbar">
-          {% include topnav.html %}
-        </div><!-- /.navbar-collapse -->
+        {% include topnav.html %}
       </div>
     </nav>
  
