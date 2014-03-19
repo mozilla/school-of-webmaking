@@ -20,3 +20,18 @@ main > section {
 .module-fork:hover {
 	border-color: #E3E3E3;
 }
+.exploringBanner{
+	border-top: 5px solid #C13832;
+}
+
+.buildingBanner{
+	border-top: 5px solid #3FB58E;
+}
+
+.facilitatingBanner{
+	border-top: 5px solid #FFCD36;
+}
+
+.connectingBanner{
+	border-top: 5px solid #27AAE1;
+}

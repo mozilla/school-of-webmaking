@@ -1,83 +1,140 @@
 ---
 layout: landing
+landing-style: modules
 ---
 
+<!-- BEGIN HEADER JUMOBTRON
+	emmet:
+	header.jumbotron>.container>(.row>.col-md-10.col-md-offset-1.title>h1{Getting Started}+p>lipsum)+(.row>.col-md-2.col-md-offset-10>a[href=#signup].btn.btn-default.btn-lg.btn-block)
+-->
 <header class="jumbotron">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8 col-md-offset-2 title">
-				<h1>#TeachTheWeb</h1>
+			<div class="col-md-10 col-md-offset-1 title">
+				<h1>Welcome to Webmaker Training</h1>
+				<p>Learn to <a href="https://twitter.com/search?q=%23teachtheweb&src=typd">#TeachTheWeb</a> while celebrating learning and making through openness, creativity and mentorship.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-2 col-md-offset-10">
+				<a href="#signup" class="btn btn-default btn-lg btn-block">Sign Up</a>
 			</div>
 		</div>
 	</div>
 </header>
+<!-- END HEADER JUMBOTRON -->
 
-<section class="sub-jumbotron">
-	<div class="container">
-		<h3>
-			<em>Celebrate learning and making through openness, creativity and mentorship.</em>
-		</h3>
-	</div>
-</section>
-
-
+<!-- BEGIN MAIN CONTENT -->
 <main>
-	<div class="container">
-		<div class="col-md-10 col-md-offset-1">
-		<h2>What's this all about?</h2>
-			<p>Spreading digital skills and openness doesn't have to be difficult, but it can be intimidating if you are new to open online communities. <strong>Mozilla is committed to helping you learn about openness while leveling up your own professional practice.</strong></p>
-
-			<p><strong>Everything here is 100% free, open and powered by a community of educators and mentors.</strong> If you get stuck or need help, please reach out to us using <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#teachtheweb</a> on Twitter or in the <a href="https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1">Teach the Web G+ Community</a>.</p>
-
-<h2>We want to help you:</h2>
-<ul>
-<li>connect with other mentors and educators (especially those in your local area) to share knowledge and resources.</li>
-<li>use open, participatory practices to teach web skills and bring creativity and digital literacy into your practice.</li>
-<li>plug into a global movement that believes in openness, sharing and peer to peer learning.</li>
-</ul>
-			
-			So, welcome to <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#teachtheweb</a>. We’re glad you’re here. If you’re new to the Mozilla Webmaker community, here is sample of what’s in store:</p>
-			
-			<div class="embedWrapper">
-				<iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe>
-			</div>
-			
-			
-			<h2>What’s <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#teachtheweb</a>?</h2>
-			
-			<p>A nifty blended-learning initiative by <a href="http://www.mozilla.org/en-US/">Mozilla</a>, peer-powered by <a href="https://p2pu.org/en/">P2PU</a>. This course is free and open and will be repeating periodically. Read about the very first <a href="http://hivenyc.org/teachtheweb/">#teachtheweb here</a>.</p>
-			
-			<h2>What will I do here?</h2>
-			
-			<p>We’re here to help you integrate digital making and web skills into your teaching practice with collaborative, peer-to-peer methodologies. You’ll be learning the community-driven pedagogies behind Webmaker by building things yourself, sharing them with others, and starting to teach the world the web.</p>
-			
-			<p>Each Module will have 3 parts: you’ll explore, make and reflect--and do so in community.</p>
-			
-			<div>
-				<img src="{{site.baseurl}}/img/explore-make-reflect.png" >
-			</div>
-			
-			
-			<h2>Who else is here?</h2>
-			
-			<p>If you’re an educator--in school, in your library, in an afterschool program--, if you're a technologist who cares about advancing digital literacy, if you want to participate in an open community, <strong>welcome home</strong>. You’re among other passionate folks who do the same stuff and are here to help.</p>
-			
-			<h2>How do I participate?</h2>
-			
-			<p>Participating is learning. How much you dig in is entirely up to you. You’ll get something out of it every step of the way. A few general ideas:
-			<ul>
-			<li>Share your ideas and weekly “makes” in the <a href="https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1">Teach the Web G+ Community</a>.</li>
-			<li>Find your crew. Look at the intros and makes and follow 2-3 people who sound interesting to you during the course.</li>
-			<li>Tag your posts <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#teachtheweb</a> on Twitter.</li>
-			<li>Recommend other resources in the G+ Community</li>
-			</ul>
-			</p>
-			
-			<p>You aren’t alone, and there are no mistakes. In fact, here’s your network of support in #teachtheweb.</p>
-			
-			<div>
-				<img src="{{site.baseurl}}/img/ttw-community.jpg">
+	<!-- BEGIN MODULES
+		emmet:
+		section.modules>.container>.row>.module.col-md-3*4>(.well>(h1>lipsum2)+(p>lipsum20))+a.module-fork.btn.btn-default.btn-lg[href=#module-$]>i.fa.fa-code-fork{ fork}
+	-->
+	<section class="modules">
+		<div class="container">
+			<div class="row">
+				<div class="module col-md-3">
+					<div class="well exploringBanner">
+						<h1>Exploring</h1>
+						<p>In this module, you'll be exploring the <strong>pedagogies</strong> and <strong>theoretical frameworks</strong> behind Webmaker. At the same time, you'll learn to understand the Web as an ecosystem and will begin to see why an <strong>Open Web</strong> is so important. </p>
+					</div>
+					<a href="#module-1" class="module-fork btn btn-default btn-lg"><i class="fa fa-code-fork"> fork</i></a>
+				</div>
+				<div class="module col-md-3">
+					<div class="well buildingBanner">
+						<h1>Building</h1>
+						<p>The building module is all about building <strong>open educational resources</strong> that <strong>embed web literacy</strong> and  <strong>making</strong> skills with other topics. We'll use <strong>open practices</strong> to make learning materials that are relevant, free and designed for remixing.
+</p>
+					</div>
+					<a href="#module-2" class="module-fork btn btn-default btn-lg"><i class="fa fa-code-fork"> fork</i></a>
+				</div>
+				<div class="module col-md-3">
+					<div class="well facilitatingBanner">
+						<h1>Facilitating</h1>
+						<p>Conceptually understanding the pedagogies and methods behind Webmaker is one thing, <strong>using these practices</strong> in the classroom or at a workshop is another. This module will help you run a room using <strong>participatory learning</strong> techniques and open educational resources.</p>
+					</div>
+					<a href="#module-3" class="module-fork btn btn-default btn-lg"><i class="fa fa-code-fork"> fork</i></a>
+				</div>
+				<div class="module col-md-3">
+					<div class="well connectingBanner">
+						<h1>Connecting</h1>
+						<p>Webmaker is a global community of people who care about digital literacy and the web. In this module you will learn how to connect in your <strong>local community</strong> as well as with the <strong>global community</strong>. You will learn how amplifying your work will better your practice and the practice of others. </p>
+					</div>
+					<a href="#module-4" class="module-fork btn btn-default btn-lg"><i class="fa fa-code-fork"> fork</i></a>
+				</div>
 			</div>
 		</div>
-	</div>
+	</section>
+	<!-- END MODULES -->
+
+	<section>
+		<div class="container">
+			<div class="row">
+				<!-- BEGIN PROMPT
+					emmet:
+					.make-prompt.col-md-6>(h2>lipsum5)+(p*2>lipsum)+a.btn.btn-primary.btn-lg[href=#makeprompt]{Make}
+				-->
+				<div class="make-prompt col-md-6">
+					<h2>Lorem ipsum dolor sit amet.</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, quasi, accusamus enim voluptates quibusdam asperiores sint iure voluptatum beatae provident temporibus possimus ipsa assumenda accusantium modi quod officia illum optio.</p>
+					<p>Laudantium, enim magnam dicta sequi molestiae suscipit odit voluptatibus ab ut excepturi. Laboriosam, doloremque, dolorum nam veniam dolores veritatis labore atque temporibus sapiente perspiciatis repellendus iste non iure voluptates vel!</p>
+					<a href="#makeprompt" class="btn btn-primary btn-lg">Make</a>
+				</div>
+				<!-- END PROMPT -->
+
+				<!-- BEGIN SOCIAL
+					emmet:
+					.social.col-md-6>h2{Social Hype}+.media*3>(a.pull-left[href=#social]>img[src=http://placebox.es/64/64/?t=$])+.media-body>h4.media-heading{social user $}+p>lipsum20
+				-->
+				<div class="social col-md-6">
+					<h2>Social Hype</h2>
+					<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=%23teachtheweb"  data-widget-id="446271500572569601">Tweets about "#teachtheweb"</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<!--
+					<div class="media">
+						<a href="#social" class="pull-left"><img src="http://placebox.es/64/64/?t=1" alt=""></a>
+						
+						<div class="media-body">
+							<h4 class="media-heading">social user 1</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, id, velit iste non magnam temporibus voluptate deserunt et voluptatum ullam.</p>
+						</div>
+					</div>
+					<div class="media">
+						<a href="#social" class="pull-left"><img src="http://placebox.es/64/64/?t=2" alt=""></a>
+						<div class="media-body">
+							<h4 class="media-heading">social user 2</h4>
+							<p>Nobis, quaerat quia excepturi aut assumenda maiores deserunt nulla voluptatibus ut obcaecati fuga voluptas porro possimus quo cumque maxime temporibus!</p>
+						</div>
+					</div>
+					<div class="media">
+						<a href="#social" class="pull-left"><img src="http://placebox.es/64/64/?t=3" alt=""></a>
+						<div class="media-body">
+							<h4 class="media-heading">social user 3</h4>
+							<p>Deleniti, voluptatibus, explicabo numquam ipsa dignissimos voluptatum rem accusantium assumenda exercitationem provident velit cupiditate sed quis officia corporis eligendi reiciendis!</p>
+						</div>
+					</div>
+				</div>
+				<!-- END SOCIAL -->
+			</div>
+		</div>
+	</section>
+
+	<!-- BEGIN MY COURSES
+		emmet:
+		section.my-courses>.container>.row>.well.col-md-12>h2{My Courses}+p>lipsum
+	-->
+	<section class="my-courses">
+		<div class="container">
+			<div class="row">
+				<div class="well col-md-12">
+					<h2>My Courses</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, hic, quibusdam consectetur tenetur inventore ab aliquam porro explicabo harum soluta voluptatem placeat dolor recusandae ratione in voluptatum veritatis beatae iste.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- END MY COURSES -->
 </main>
+<!-- END MAIN CONTENT -->
