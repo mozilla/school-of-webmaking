@@ -28,23 +28,7 @@
 <body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %}>
 
   <div id="wrap">
-    <nav class="navbar navbar-webmaker">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#id-collapsable-navbar" >
-            <span class="sr-only">Toggle navigation</span>
-            <span class="fa fa-bars fa-lg"></span>
-          </button>
-          <a class="logo webmaker-logo" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/img/training-logo.png"></a>
-        </div>
-      </div>
-    </nav>
-
-    <nav class="navbar navbar-inverse navbar-no-header-xs collapse navbar-collapse" role="navigation" id="id-collapsable-navbar">
-      <div class="container">
-        {% include topnav.html %}
-      </div>
-    </nav>
+    {% include topnav.html %}
  
     <div class="container body">
       {{ content }}
