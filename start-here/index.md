@@ -16,14 +16,12 @@ Everything here is 100% free, open and powered by a community of educators and m
 			
 So, welcome to Webmaker Training: <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#TeachTheWeb</a>. We’re glad you’re here. If you’re new to the Mozilla Webmaker community, here is a sample of what’s in store:
 			
-			<div class="embedWrapper">
-				<iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe>
-			</div>
+<div class="embedWrapper"><iframe width="640" height="360" src="//www.youtube.com/embed/u6zEOOl4c7w" frameborder="0" allowfullscreen></iframe></div>
 			
 			
 # What’s <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#teachtheweb</a>?
 			
-			A nifty blended-learning initiative by <a href="http://www.mozilla.org/en-US/">Mozilla</a>, peer-powered by <a href="https://p2pu.org/en/">P2PU</a>. The courses are free and open and will be repeating periodically. Read about the very first <a href="http://hivenyc.org/teachtheweb/">#teachtheweb here</a>.
+A nifty blended-learning initiative by <a href="http://www.mozilla.org/en-US/">Mozilla</a>, peer-powered by <a href="https://p2pu.org/en/">P2PU</a>. The courses are free and open and will be repeating periodically. Read about the very first <a href="http://hivenyc.org/teachtheweb/">#teachtheweb here</a>.
 			
 #What will I do here?
 			
