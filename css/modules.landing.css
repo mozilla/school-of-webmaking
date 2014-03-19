@@ -1,0 +1,22 @@
+body {
+	background-image: none; /* remove background image */
+}
+main > section {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+.modules {
+	margin-top: -3rem;
+	background-color: #e3eaee;
+}
+.module .well {
+	background-color: white;
+}
+.module-fork {
+	margin-top: -21px;
+	border-top: none;
+	border-color: #E3E3E3;
+}
+.module-fork:hover {
+	border-color: #E3E3E3;
+}
