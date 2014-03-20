@@ -1,0 +1,9 @@
+s3_id: <%= ENV['AWS_ACCESS_KEY'] %>
+s3_secret: <%= ENV['AWS_SECRET_KEY'] %>
+s3_bucket: training.prototypes.webmaker.org
+
+exclude_from_upload:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
