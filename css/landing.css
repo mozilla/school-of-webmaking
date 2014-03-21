@@ -8,9 +8,9 @@ body {
 	background-image: url('/img/reps-athens-scary-face.jpg');
 	}
 	
-	body.static{
-		background-image: none;
-		background-color: white;
+body.static{
+	background-image: none;
+	background-color: white;
 	}
 	
 .jumbotron {
