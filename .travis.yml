@@ -7,11 +7,13 @@ branches:
 install: bundle install
 script: bundle exec jekyll build
 after_success:
-- if [[ "$TRAVIS_PULL_REQUEST" != "false" ]]; then echo "Deployments are only done for branches. "; exit 0; fi
-- if [[ "$TRAVIS_BRANCH" != "gh-pages" ]]; then echo "Deployments are only done for the gh-pages branch. "; exit 0; fi
+- if [[ "$TRAVIS_PULL_REQUEST" != "false" ]]; then echo "Deployments are only done
+  for branches. "; exit 0; fi
+- if [[ "$TRAVIS_BRANCH" != "gh-pages" ]]; then echo "Deployments are only done for
+  the gh-pages branch. "; exit 0; fi
 - echo "Deploying commit $TRAVIS_COMMIT"
 - bundle exec s3_website push --headless
 env:
   global:
-  #- secure: encrypt AWS_ACCESS_KEY
-  #- secure: encrypt AWS_SECRET_KEY
+  - secure: dZTVrs2O76OByAnvEUkeCGHyPJ8rz5IJVEa4oqmd79PcEP+nHbngBfc8a+1JjlOt+RR4VhGTRlF40/e5qULxQJWuXnA2pl1eZsPTiujy6T+R9B53B+y3aB7rXzcPdxnH2+TbcFdw9wYpTaz8QKT8MftAaUenAXkfCYqaJy5LbhY=
+  - secure: CaNTf0KOdTF1zhrXIMx1n5Yl3OA9stOlY6Sip2vlbjMA0bYTZlwp1W8oW0bDt8mYnQWrOMV2JLVjeyBTAyfhzR3EfEJ2PE3o8xFgzdTQKXrWVKKeuD9sgUVCbwBrfE7726zKw6QwQYrEmVF3f8ASbL6ZgN+n3c/f8VIJqudq3mk=
