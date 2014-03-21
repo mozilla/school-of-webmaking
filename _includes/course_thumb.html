@@ -1,5 +1,7 @@
 <div class="course-image"><img src="{{site.baseurl}}{{ course.image }}">
 {% if course.image_attribution %}
-  <p class="attribution"><a href="{{course.image_attribution}}">Image</a> <a href="http://creativecommons.org/licenses/by/2.0/">CC-BY-SA</a></p>
+  	
+<a href="{{course.image_attribution}}" class="attribution"><span class="fa fa-camera"></span> {{course.attribution_name}}</a>
+
 {% endif %}
 </div>

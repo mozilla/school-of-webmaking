@@ -31,8 +31,21 @@
       <li {% if page.help %}class="active"{% endif %}><a href="{{ site.baseurl }}/help/">Find help</a></li> 
     </ul>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="https://p2pu.org"><img src="{{site.baseurl}}/img/p2pu-logo.png"></a></li>
-      <li><a href="http://webmaker.org"><img src="{{site.baseurl}}/img/webmaker-logo.png"></a></li>
+    	<li class="navbar-text">together with</li>
+		<li><a href="https://p2pu.org"><img src="{{site.baseurl}}/img/p2pu-logo.png"></a></li>
+		<!--<li><a href="http://webmaker.org"><img src="{{site.baseurl}}/img/webmaker-logo.png"></a></li>-->
     </ul>
+    
   </div>
+</nav>
+<nav class="navbar navbar-inverse navbar-no-header-xs collapse navbar-collapse secondary">
+<div class="container">
+ <ul class="nav navbar-nav">
+     {% assign course_category = page.categories[0] %}
+{% assign course=site.data.course[course_category] %}
+    {% for subpage in site.categories[course.category] reversed %}
+      <li class="{% if subpage.title == page.title %}active{% endif %}" > <a href="{{site.baseurl}}{{ subpage.url }}">{{subpage.title}}</a></li>
+    {% endfor %}
+    </ul>
+</div>
 </nav>
