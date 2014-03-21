@@ -29,11 +29,13 @@
     <link href="{{site.baseurl}}/css/{{page.landing-style}}.landing.css" rel="stylesheet">
   {% endif %}
 </head>
-<body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %}>
+<body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %} class="static">
 
   <div id="wrap">
     {% include topnav.html %}
+<div class="container">
     {{ content }}
+</div>
   </div>
 
   {% include footer.html %}

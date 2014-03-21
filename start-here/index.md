@@ -1,6 +1,6 @@
 ---
 title: Start Here
-layout: landing
+layout: static
 start_here: true
 ---
 # What's this all about?

@@ -1,6 +1,6 @@
 ---
 title: Find Help
-layout: base
+layout: static
 help: true
 ---
 #Communicate with Us
