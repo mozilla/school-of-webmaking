@@ -1,11 +1,4 @@
 body {
-	background-color: #3fb58e;
-	-webkit-background-size: cover;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: top center;
-	background-repeat: no-repeat;
-	background-image: url('/img/reps-athens-scary-face.jpg');
 	}
 .jumbotron {
 	margin-bottom: 0;
