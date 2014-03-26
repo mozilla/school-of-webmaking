@@ -41,8 +41,9 @@
 <nav class="navbar navbar-inverse navbar-no-header-xs collapse navbar-collapse secondary">
 <div class="container">
  <ul class="nav navbar-nav">
-     {% assign course_category = page.categories[0] %}
-{% assign course=site.data.course[course_category] %}
+    {% assign course_category = page.categories[0] %}
+    {% assign course=site.data.course[course_category] %}
+    <li class="course-crumb" ><a href="#">{{course.title}}</a></li>
     {% for subpage in site.categories[course.category] reversed %}
       <li class="{% if subpage.title == page.title %}active{% endif %}" > <a href="{{site.baseurl}}{{ subpage.url }}">{{subpage.title}}</a></li>
     {% endfor %}
