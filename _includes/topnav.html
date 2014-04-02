@@ -28,6 +28,9 @@
           {% endfor %}
         </ul>
       </li>
+      <li {% if page.host_a_training %}class="active"{% endif %}>
+        <a href="{{ site.baseurl }}/host-a-training/">Host a training</a>
+      </li>
       <li {% if page.help %}class="active"{% endif %}><a href="{{ site.baseurl }}/help/">Find help</a></li> 
     </ul>
     <ul class="nav navbar-nav navbar-right">
