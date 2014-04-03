@@ -7,6 +7,25 @@ categories: [building]
 
 # Resource Library 
 
+## The Design Process
+
+### Paper Prototyping
+>The sketchy feel of paper prototypes make them an effective tool to elicit users’ hands-on involvement during the >design process, as they project the idea that things are still on the works and there is room for change. With paper >prototypes, users are not only able to rapidly visualize the initial ideas of the design team, but can also feel >empowered to adapt them to their own needs, and desires with the aid of the tangible materials.
+--Catalina Naranjo-Bock, "[Using Paper Prototyping as a Tool for Participatory Design Research](http://www.paulolyslager.com/paper-prototyping-tool-participatory-design-research/)
+
+### Participatory Design and the Web
+>Codesign steps into an age of open source code and digital collaboration by uplevelling such interactions in an >interesting way. In a codesign approach, ‘users’ and ‘stakeholders’ become partners, working actively side-by-side with >designers to make things, shaping the definition and direction of a project together.
+-Kat Baybrooke, "[A Mozilla winter: Web-makers, co-designers and curriculum-bakers…"](http://blog.kaibray.com/post/76615169574/a-mozilla-winter-web-makers-co-designers-and)
+
+### Design Thinking in the Classroom
+<iframe src="//player.vimeo.com/video/83606107" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/83606107">es22</a> from <a href="http://vimeo.com/user17467013">ES22 Design Survivor</a> on <a href="https://vimeo.com">Vimeo</a>.</p> <p></p>
+
+### Iteration and Reflection
+
+>The practitioner allows himself to experience surprise, puzzlement, or confusion in a situation which he finds >uncertain or unique. He reflects on the phenomenon before him, and on the prior understandings which have been implicit >in his behaviour. He carries out an experiment which serves to generate both a new understanding of the phenomenon and >a change in the situation.
+--Donald Schön ["The Reflective Practioner"](http://infed.org/mobi/donald-schon-learning-reflection-change/) 
+
+
 ## Add the web to anything
 For inspiration from formal learning spaces (.e.g schools)
 
