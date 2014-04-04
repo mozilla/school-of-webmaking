@@ -17,7 +17,8 @@ building:
   language: en
   based_on:
   image: /img/building-360px.jpg
-  image_attribution: http://www.flickr.com/photos/dorkomatic/5027535256/
+  image_attribution: https://www.flickr.com/photos/jezpage/5012460707
+  attribution_name: Jeremy Page
   organizers:
    - name: Laura
      image: http://placehold.it/400x400
