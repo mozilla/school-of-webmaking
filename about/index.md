@@ -30,7 +30,7 @@ If you’re an educator--in school, in your library, in an afterschool program--
 
 Participating is learning. How much you dig in is entirely up to you. You’ll get something out of it every step of the way. A few general ideas.
 * The best way to connect and learn is to let others know what you're thinking, making and doing so that people can respond, ask questions and push you to be better AND realize your own awesome. If you already have a blog set up, you can simply start tagging posts with #teachtheweb. If you don't have a blog, consider setting one up. There are lots of different blog engines to choose from. [Tumblr](http://tumblr.com) is probably the easiest to set up but [Wordpress](http://wordpress.com), [Edublogs](http://edublogs.org), [Google’s Blogger](http://blogger.com), or a Wordpress installation on your own site might give you more features. Just follow the onscreen directions, and if you get stuck, post to the [G+ Webmaker Community](http://mzl.la/gpluswebmaker). **Be sure and tag your Teach the Web related posts with #teachtheweb!**
-* Share your ideas and weekly “makes” in the [Teach the Web G+ Community](https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1).
+* Share your ideas and weekly “makes” in the [Teach the Web Community](http://discourse.webmakerprototypes.org/).
 * Find your crew. Look at the intros and makes and follow 2-3 people who sound interesting to you during the course.
 * Tag your posts [#teachtheweb](https://twitter.com/search?q=teachtheweb&src=typd&f=realtime) on Twitter.
 * Recommend other resources in the G+ Community by tagging #ttwresources
