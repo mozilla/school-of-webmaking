@@ -29,7 +29,7 @@ To get you started, you might take one of these rad introductions other folks ha
 * [Chris David Mills' "All About Chris"](https://chrisdavidmills.makes.org/thimble/all-about-chris)
 
 
-Then go ahead and post your first “Make” to the [Google+ page](https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1). 
+Then go ahead and post your first “Make” to the [Webmaker Community](http://discourse.webmakerprototypes.org/). 
 
 
 ## Make Option 2: How do *we* define our terms?
