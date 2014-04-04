@@ -35,7 +35,7 @@ Educators from schools, libraries, afterschool programs, youth-serving organizat
 			
 Your level of participation is entirely up to you. You can take part in the entire program or only choose certain modules. We hope you'll find value every step of the way. A few general ways to participate:
 
-* Share what you're learning and making in the <a href="https://plus.google.com/u/0/communities/106022863174952221205/stream/4723a453-f65d-49c4-a44e-cae2b9dbada1">G+ Community</a>.
+* Share what you're learning and making in the <a href="http://discourse.webmakerprototypes.org">Community</a>.
 * Find your crew. Browse introductions and makes and follow 2-3 other participants who sound interesting to you during the course.
 * Tag your posts <a href="https://twitter.com/search?q=teachtheweb&amp;src=typd&amp;f=realtime">#teachtheweb</a> on Twitter.
 * Talk about your learning and have deeper discussions in the course Discourse.			
