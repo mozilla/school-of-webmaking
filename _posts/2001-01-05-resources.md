@@ -11,21 +11,21 @@ categories: [building]
 
 ### Everyone Can Teach
 
-To warm up to the idea of teaching, we then got into pairs. The task: teach someone something in 5 minutes.
+>To warm up to the idea of teaching, we then got into pairs. The task: teach someone something in 5 minutes.
 
-One person would go and then switch. Even if you knew what was being taught, you were encouraged to play a good learner, asking good questions and prompting the teacher.
+>One person would go and then switch. Even if you knew what was being taught, you were encouraged to play a good learner, asking good questions and prompting the teacher.
 
-After this exercise, we circled up and discussed what we observed from this experience. For many, it was a great way to think about how to explain something clearly, using metaphors and knowledge building blocks. It helped bring people into a teaching mindset.
+>After this exercise, we circled up and discussed what we observed from this experience. For many, it was a great way to think about how to explain something clearly, using metaphors and knowledge building blocks. It helped bring people into a teaching mindset.
 
 --Michelle Thorne "[Webmaker Train the Trainer](http://michellethorne.cc/2013/05/webmaker-train-the-trainer/)"
 
 ### Learning Objectives First
 
-Backward design is a method of designing educational curriculum by setting goals before choosing instructional methods and forms of assessment. Backward design of curriculum typically involves three stages:
+>Backward design is a method of designing educational curriculum by setting goals before choosing instructional methods and forms of assessment. Backward design of curriculum typically involves three stages:
 
-* identify the results desired
-* determine acceptable levels of evidence that support that the desired results have occurred
-* design activities that will make desired results happen
+>* identify the results desired
+>* determine acceptable levels of evidence that support that the desired results have occurred
+>* design activities that will make desired results happen
 
 --Wikipedia "[Backward design](http://en.wikipedia.org/wiki/Backward_design)"
 
@@ -40,7 +40,7 @@ with different interests and different learning styles can all
 use the same materials, but each in his or her own personal 
 way. 
 
-In developing technologies for older learners, we try to 
+>In developing technologies for older learners, we try to 
 achieve a similar effect. Our guiding principle is “many 
 paths, many styles” – that is, to develop technologies that 
 can be used along many different paths, by children with 
@@ -53,9 +53,15 @@ I Learned (By Studying How Children Learn) in Kindergarten*](http://web.media.mi
 
 ### How Do I Make a Learning Activity?
 
-[
+<a href="https://www.flickr.com/photos/mozzadrella/13673866983" title="Learning Activity Design.002 by Vanessa Gennarelli, on Flickr"><img src="https://farm4.staticflickr.com/3729/13673866983_d8da86e02e.jpg" width="500" height="375" alt="Learning Activity Design.002"></a>
 
-## Examples of Making As Learning in Online Communities
+<a href="https://www.flickr.com/photos/mozzadrella/13673862403" title="Learning Activity Design.003 by Vanessa Gennarelli, on Flickr"><img src="https://farm6.staticflickr.com/5185/13673862403_736866c7a9.jpg" width="500" height="375" alt="Learning Activity Design.003"></a>
+
+<a href="https://www.flickr.com/photos/mozzadrella/13674174114" title="Learning Activity Design.004 by Vanessa Gennarelli, on Flickr"><img src="https://farm8.staticflickr.com/7205/13674174114_17224420a0.jpg" width="500" height="375" alt="Learning Activity Design.004"></a>
+
+<a href="https://www.flickr.com/photos/mozzadrella/13674158814" title="Learning Activity Design.005 by Vanessa Gennarelli, on Flickr"><img src="https://farm6.staticflickr.com/5349/13674158814_487ea99dd8.jpg" width="500" height="375" alt="Learning Activity Design.005"></a>
+
+## "Making As Learning" in Online Communities
 
 #### Digital Humanities 106: [The Daily Create](http://tdc.ds106.us/)
 
@@ -64,8 +70,9 @@ I Learned (By Studying How Children Learn) in Kindergarten*](http://web.media.mi
 
 The Daily Create provides a space for regular practice of spontaneous creativity through challenges published every day. Each assignment should take no more than 15-20 minutes. There are no registrations, no prizes, just a community of people producing art daily. Developed as part of the ds106 open course on digital storytelling, TDC is open to anyone who wants a regular dose of creative exercises (and it more fun than jumping jacks, pushups, and P90X).
 
-<a href="http://ds106.us/">DS106</a> began as a digital storytelling course offered for credit for students at the <a href="http://umw.edu/">University of Mary Washington</a>. </p>
-<p>And ds106 is also open to anyone interested in making digital art along with us and is truly an online community of learners beyond UMW. We have an <a href-="http:///assignments.ds106.us/">open collection of creativity assignments</a>, <a href="http://inspire.ds106.us/">a best of collection of participant works</a>, even an <a href="http://ds106.us/ds106-radio">internet radio station</a>.
+<a href="http://ds106.us/">DS106</a> began as a digital storytelling course offered for credit for students at the <a href="http://umw.edu/">University of Mary Washington</a>. 
+
+And ds106 is also open to anyone interested in making digital art along with us and is truly an online community of learners beyond UMW. We have an <a href-="http:///assignments.ds106.us/">open collection of creativity assignments</a>, <a href="http://inspire.ds106.us/">a best of collection of participant works</a>, even an <a href="http://ds106.us/ds106-radio">internet radio station</a>.
 
 
 #### Making Learning Connected: [Make Cycles](http://blog.nwp.org/clmooc/makes/make-cycles/)
@@ -73,6 +80,8 @@ The Daily Create provides a space for regular practice of spontaneous creativity
 <a href="https://www.flickr.com/photos/mozzadrella/13672783905" title="Screen Shot 2014-04-06 at 2.00.21 PM by Vanessa Gennarelli, on Flickr"><img src="https://farm6.staticflickr.com/5196/13672783905_6241943493.jpg" width="500" height="362" alt="Screen Shot 2014-04-06 at 2.00.21 PM"></a>
 
 Making Learning Connected (#clmooc) is a collaborative, knowledge-building and sharing experience open to anyone who’s interested in making, creativity and learning. Together over six weeks we will play with new tools and processes for making projects, share our results and our learning, and explore the educational model known as Connected Learning. 
+
+
 
 ## The Design Process
 
