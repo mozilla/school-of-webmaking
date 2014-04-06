@@ -55,9 +55,9 @@ I Learned (By Studying How Children Learn) in Kindergarten*](http://web.media.mi
 
 [
 
-## Examples of Making As Learning
+## Examples of Making As Learning in Online Communities
 
-Digital Humanities 106: [The Daily Create](http://tdc.ds106.us/)
+#### Digital Humanities 106: [The Daily Create](http://tdc.ds106.us/)
 
 <a href="https://www.flickr.com/photos/mozzadrella/13672820493" title="Screen Shot 2014-04-06 at 1.48.49 PM by Vanessa Gennarelli, on Flickr"><img src="https://farm4.staticflickr.com/3739/13672820493_b9428db824.jpg" width="500" height="399" alt="Screen Shot 2014-04-06 at 1.48.49 PM"></a>
 
@@ -65,13 +65,14 @@ Digital Humanities 106: [The Daily Create](http://tdc.ds106.us/)
 The Daily Create provides a space for regular practice of spontaneous creativity through challenges published every day. Each assignment should take no more than 15-20 minutes. There are no registrations, no prizes, just a community of people producing art daily. Developed as part of the ds106 open course on digital storytelling, TDC is open to anyone who wants a regular dose of creative exercises (and it more fun than jumping jacks, pushups, and P90X).
 
 <a href="http://ds106.us/">DS106</a> began as a digital storytelling course offered for credit for students at the <a href="http://umw.edu/">University of Mary Washington</a>. </p>
-<p>And ds106 is also open to anyone interested in making digital art along with us and is truly an online community of learners beyond UMW. We have an <a href-="http:///assignments.ds106.us/">open collection of creativity assignments</a>, <a href="http://inspire.ds106.us/">a best of collection of participant works</a>, even an <a href="http://ds106.us/ds106-radio">internet radio station</a>.</p>
-<p>There is no cost and no obligation once you sign up. Learn <a href="http://ds106.us/about/">more about ds106</a>. it&#8217;s <a href="http://ds106.us/history">fascinating history</a>, and <a href="http://ds106.us/handbook/success-the-ds106-way/quick-start/">how you can easily get started being part of the community</a>.
-
-Making Learning Connected: Make Cycles
+<p>And ds106 is also open to anyone interested in making digital art along with us and is truly an online community of learners beyond UMW. We have an <a href-="http:///assignments.ds106.us/">open collection of creativity assignments</a>, <a href="http://inspire.ds106.us/">a best of collection of participant works</a>, even an <a href="http://ds106.us/ds106-radio">internet radio station</a>.
 
 
+#### Making Learning Connected: [Make Cycles](http://blog.nwp.org/clmooc/makes/make-cycles/)
 
+<a href="https://www.flickr.com/photos/mozzadrella/13672783905" title="Screen Shot 2014-04-06 at 2.00.21 PM by Vanessa Gennarelli, on Flickr"><img src="https://farm6.staticflickr.com/5196/13672783905_6241943493.jpg" width="500" height="362" alt="Screen Shot 2014-04-06 at 2.00.21 PM"></a>
+
+Making Learning Connected (#clmooc) is a collaborative, knowledge-building and sharing experience open to anyone who’s interested in making, creativity and learning. Together over six weeks we will play with new tools and processes for making projects, share our results and our learning, and explore the educational model known as Connected Learning. 
 
 ## The Design Process
 
