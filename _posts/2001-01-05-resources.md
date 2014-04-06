@@ -120,8 +120,8 @@ Great documentarians, who invite collaboration and feedback through their reflec
 * [Andy Forgrave](http://edvisioned.ca/) [@aforgrave](https://twitter.com/aforgrave)
 * [Melissa Techman](http://mtechman.wordpress.com/) [@mtechman](https://twitter.com/mtechman)
 * [Shawn Cornally](http://101studiostreet.com/wordpress/) [@thinkthankthunk](https://twitter.com/hinkthankthunk)
-* [Paula White](http://tzstchr.edublogs.org/) [@paulawhite](https://twitter.com/paulawhite]
+* [Paula White](http://tzstchr.edublogs.org/) [@paulawhite](https://twitter.com/paulawhite)
 * [Antero Garcia](http://www.theamericancrawl.com/)
 * [Clifford Lee](http://digitalis.nwp.org/resource/449)
 * [Paul Allison](http://youthvoices.net)
-* [Bud Hunt](http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/) [@budtheteacher](https://twitter.com/paulawhite]
+* [Bud Hunt](http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/) [@budtheteacher](https://twitter.com/paulawhite)
