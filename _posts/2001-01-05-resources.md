@@ -52,9 +52,9 @@ for children’s imaginations.
 I Learned (By Studying How Children Learn) in Kindergarten*](http://web.media.mit.edu/~mres/papers/CC2007-handout.pdf)
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=c0KYU2j0TM4
-" target="_blank"><img src="http://img.youtube.com/vi/Yc0KYU2j0TM4/0.jpg" 
-alt="The Power of Introverts" width="240" height="180" border="10" /></a>
+
+[![The Power of Introverts](http://img.youtube.com/vi/c0KYU2j0TM4/0.jpg)](http://www.youtube.com/watch?v=c0KYU2j0TM4)
+
 
 --Susan Cain, [The Power of Introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts.html)
 
@@ -115,13 +115,13 @@ Making Learning Connected (#clmooc) is a collaborative, knowledge-building and s
 ## Peers working in the Open
 Great documentarians, who invite collaboration and feedback through their reflections:
 
-* [Kevin Hodgson](http://dogtrax.edublogs.org/) (@dogtrax) 
-* [John Johnston](http://johnjohnston.info/106/) (@johnjohnston) 
-* [Andy Forgrave](http://edvisioned.ca/) (@aforgrave) 
-* [Melissa Techman](http://mtechman.wordpress.com/) (@mtechman) 
-* Shawn Cornally (@thinkthankthunk, (http://101studiostreet.com/wordpress/)
-* Paula White (@paulawhite, http://tzstchr.edublogs.org/)
-* Antero Garcia (http://www.theamericancrawl.com/)
-* Clifford Lee (http://digitalis.nwp.org/resource/449)
-* Paul Allison (http://youthvoices.net)
-* Bud Hunt (@budtheteacher) (http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/)
+* [Kevin Hodgson](http://dogtrax.edublogs.org/) [@dogtrax](https://twitter.com/dogtrax)
+* [John Johnston](http://johnjohnston.info/106/) [@johnjohnston](https://twitter.com/johnjohnston)
+* [Andy Forgrave](http://edvisioned.ca/) [@aforgrave](https://twitter.com/aforgrave)
+* [Melissa Techman](http://mtechman.wordpress.com/) [@mtechman](https://twitter.com/mtechman)
+* [Shawn Cornally](http://101studiostreet.com/wordpress/) [@thinkthankthunk](https://twitter.com/hinkthankthunk)
+* [Paula White](http://tzstchr.edublogs.org/) [@paulawhite](https://twitter.com/paulawhite]
+* [Antero Garcia](http://www.theamericancrawl.com/)
+* [Clifford Lee](http://digitalis.nwp.org/resource/449)
+* [Paul Allison](http://youthvoices.net)
+* [Bud Hunt](http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/) [@budtheteacher](https://twitter.com/paulawhite]
