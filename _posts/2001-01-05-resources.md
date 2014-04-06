@@ -51,6 +51,13 @@ for children’s imaginations.
 --Mitch Resnick [All I Really Need to Know (All I Really Need to Know (About Creative Thinking) 
 I Learned (By Studying How Children Learn) in Kindergarten*](http://web.media.mit.edu/~mres/papers/CC2007-handout.pdf)
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=c0KYU2j0TM4
+" target="_blank"><img src="http://img.youtube.com/vi/Yc0KYU2j0TM4/0.jpg" 
+alt="The Power of Introverts" width="240" height="180" border="10" /></a>
+
+--Susan Cain, [The Power of Introverts](http://www.ted.com/talks/susan_cain_the_power_of_introverts.html)
+
 ### How Do I Make a Learning Activity?
 
 <a href="https://www.flickr.com/photos/mozzadrella/13673866983" title="Learning Activity Design.002 by Vanessa Gennarelli, on Flickr"><img src="https://farm4.staticflickr.com/3729/13673866983_d8da86e02e.jpg" width="500" height="375" alt="Learning Activity Design.002"></a>
@@ -108,11 +115,10 @@ Making Learning Connected (#clmooc) is a collaborative, knowledge-building and s
 ## Peers working in the Open
 Great documentarians, who invite collaboration and feedback through their reflections:
 
-* Kevin Hodgson (@dogtrax) (http://dogtrax.edublogs.org/)
-* John Johnston (@johnjohnston) (http://johnjohnston.info/106/)
-* Andy Forgrave (@aforgrave) (http://edvisioned.ca/)
-* Melissa Techman (@mtechman) (http://mtechman.wordpress.com/)
-* Susan Cain the Power of Introverts (http://www.ted.com/talks/susan_cain_the_power_of_introverts.html)
+* [Kevin Hodgson](http://dogtrax.edublogs.org/) (@dogtrax) 
+* [John Johnston](http://johnjohnston.info/106/) (@johnjohnston) 
+* [Andy Forgrave](http://edvisioned.ca/) (@aforgrave) 
+* [Melissa Techman](http://mtechman.wordpress.com/) (@mtechman) 
 * Shawn Cornally (@thinkthankthunk, (http://101studiostreet.com/wordpress/)
 * Paula White (@paulawhite, http://tzstchr.edublogs.org/)
 * Antero Garcia (http://www.theamericancrawl.com/)
