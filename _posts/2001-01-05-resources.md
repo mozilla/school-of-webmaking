@@ -7,6 +7,72 @@ categories: [building]
 
 # Resource Library 
 
+## You Make, You Learn
+
+### Everyone Can Teach
+
+To warm up to the idea of teaching, we then got into pairs. The task: teach someone something in 5 minutes.
+
+One person would go and then switch. Even if you knew what was being taught, you were encouraged to play a good learner, asking good questions and prompting the teacher.
+
+After this exercise, we circled up and discussed what we observed from this experience. For many, it was a great way to think about how to explain something clearly, using metaphors and knowledge building blocks. It helped bring people into a teaching mindset.
+
+--Michelle Thorne "[Webmaker Train the Trainer](http://michellethorne.cc/2013/05/webmaker-train-the-trainer/)"
+
+### Learning Objectives First
+
+Backward design is a method of designing educational curriculum by setting goals before choosing instructional methods and forms of assessment. Backward design of curriculum typically involves three stages:
+
+* identify the results desired
+* determine acceptable levels of evidence that support that the desired results have occurred
+* design activities that will make desired results happen
+
+--Wikipedia "[Backward design](http://en.wikipedia.org/wiki/Backward_design)"
+
+### Learning Activities for Different Styles
+
+>Consider the most popular kindergarten materials: blocks 
+for building, crayons for drawing, dolls for role-playing, 
+tiles for making geometric patterns. All of these materials 
+are designed to encourage a child’s imagination. The 
+materials do not over-constrain or over-determine. Children 
+with different interests and different learning styles can all 
+use the same materials, but each in his or her own personal 
+way. 
+
+In developing technologies for older learners, we try to 
+achieve a similar effect. Our guiding principle is “many 
+paths, many styles” – that is, to develop technologies that 
+can be used along many different paths, by children with 
+many different styles...Our goal is to provide 
+tools that can be used in multiple ways, leaving more room 
+for children’s imaginations. 
+
+--Mitch Resnick [All I Really Need to Know (All I Really Need to Know (About Creative Thinking) 
+I Learned (By Studying How Children Learn) in Kindergarten*](http://web.media.mit.edu/~mres/papers/CC2007-handout.pdf)
+
+### How Do I Make a Learning Activity?
+
+[
+
+## Examples of Making As Learning
+
+Digital Humanities 106: [The Daily Create](http://tdc.ds106.us/)
+
+<a href="https://www.flickr.com/photos/mozzadrella/13672820493" title="Screen Shot 2014-04-06 at 1.48.49 PM by Vanessa Gennarelli, on Flickr"><img src="https://farm4.staticflickr.com/3739/13672820493_b9428db824.jpg" width="500" height="399" alt="Screen Shot 2014-04-06 at 1.48.49 PM"></a>
+
+
+The Daily Create provides a space for regular practice of spontaneous creativity through challenges published every day. Each assignment should take no more than 15-20 minutes. There are no registrations, no prizes, just a community of people producing art daily. Developed as part of the ds106 open course on digital storytelling, TDC is open to anyone who wants a regular dose of creative exercises (and it more fun than jumping jacks, pushups, and P90X).
+
+<a href="http://ds106.us/">DS106</a> began as a digital storytelling course offered for credit for students at the <a href="http://umw.edu/">University of Mary Washington</a>. </p>
+<p>And ds106 is also open to anyone interested in making digital art along with us and is truly an online community of learners beyond UMW. We have an <a href-="http:///assignments.ds106.us/">open collection of creativity assignments</a>, <a href="http://inspire.ds106.us/">a best of collection of participant works</a>, even an <a href="http://ds106.us/ds106-radio">internet radio station</a>.</p>
+<p>There is no cost and no obligation once you sign up. Learn <a href="http://ds106.us/about/">more about ds106</a>. it&#8217;s <a href="http://ds106.us/history">fascinating history</a>, and <a href="http://ds106.us/handbook/success-the-ds106-way/quick-start/">how you can easily get started being part of the community</a>.
+
+Making Learning Connected: Make Cycles
+
+
+
+
 ## The Design Process
 
 ### Paper Prototyping
@@ -29,46 +95,17 @@ categories: [building]
 --Donald Schön ["The Reflective Practioner"](http://infed.org/mobi/donald-schon-learning-reflection-change/) 
 
 
-## Add the web to anything
-For inspiration from formal learning spaces (.e.g schools)
-
-* the National Writing Project/Digital Is (http://digitalis.nwp.org )
-* Kevin Hodgson (@dogtrax, http://dogtrax.edublogs.org/ )
-* Shawn Cornally (@thinkthankthunk, http://101studiostreet.com/wordpress/ )
-* Paula White (@paulawhite, http://tzstchr.edublogs.org/ )
-* Antero Garcia (http://www.theamericancrawl.com/ )
-* Clifford Lee (http://digitalis.nwp.org/resource/449 )
-* Paul Allison (http://youthvoices.net )
-* Bud Hunt (@budtheteacher) http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/
-* Explaining what web native video is http://mozillapopcorn.org/storycamp/cinema5.html
-
-## Webmaking as Learning
-
-* http://www.hybridpedagogy.com/Journal/files/Play_Games_Gamification_Active_Learning.html
-* http://www.hybridpedagogy.com/Journal/files/Unmapping_the_Terrain_of_Digital_Pedagogy.html
-* http://carlacasilli.wordpress.com/2013/03/25/badge-pathways-part-1-the-paraquel/
-* http://carlacasilli.wordpress.com/2013/04/28/badge-pathways-part-2-the-quel/
-* http://michellethorne.cc/2013/05/webmaker-train-the-trainer/
-* http://mako.cc/academic/hill_monroy-remixing_dilemma-DRAFT.pdf
-* http://issuu.com/yollocalli/docs/homagoguidebook
-* http://ds106.us/ & http://magicmacguffin.info/
-* http://www.youtube.com/watch?v=KTBHYWFm8zw&list=UUCZOP8v5eEQ1euRMP0ljtfw&index=125
-* http://www.youtube.com/watch?v=wJuQLOKa__w&list=UUCZOP8v5eEQ1euRMP0ljtfw&index=126
-* http://www.youtube.com/watch?v=hdL0hCnGJ04&list=UUCZOP8v5eEQ1euRMP0ljtfw&index=127
-* http://vyclone.com/ Great app for collecting and aggregating video if multiple people are recording different angles/elements of a making event.
-* Beetham, H. (2010) Review and Scoping Study for a Cross-JISC Learning and Digital Literacies Programme: Sept 2010, JISC [online]. Available at http://www.jisc.ac.uk/ media/documents/ programmes/ elearning/ DigitalLiteraciesReview.pdf
-* http://its.ucsc.edu/security/top10.html "Top 10 List" of Good Computing Practices
-* A commercial for Level 3 Communications, but also a basic intro to Cyber Security http://www.youtube.com/watch?v=8PG8fbUgf-Y
-http://www.youtube.com/watch?v=COU5T-Wafa4 
-* How to Make Secure Passwords, Mozilla Security Center: http://www.mozilla.org/security/
-* Totally Awesome, Interactive Do not Track Trailer http://t.co/mOUoUCeA3E
-
 ## Peers working in the Open
 Great documentarians, who invite collaboration and feedback through their reflections:
 
-* Kevin Hodgson (@dogtrax) http://dogtrax.edublogs.org/
-* John Johnston (@johnjohnston) http://johnjohnston.info/106/
-* Andy Forgrave (@aforgrave) http://edvisioned.ca/
-* Melissa Techman (@mtechman) http://mtechman.wordpress.com/
-* Susan Cain the Power of Introverts  http://www.ted.com/talks/susan_cain_the_power_of_introverts.html
-* Places where ppl can teach/suggest/document makes (http://instructables.com, http://diy.org, http://ds106.us, http://scratch.mit.edu, http://github.com).
+* Kevin Hodgson (@dogtrax) (http://dogtrax.edublogs.org/)
+* John Johnston (@johnjohnston) (http://johnjohnston.info/106/)
+* Andy Forgrave (@aforgrave) (http://edvisioned.ca/)
+* Melissa Techman (@mtechman) (http://mtechman.wordpress.com/)
+* Susan Cain the Power of Introverts (http://www.ted.com/talks/susan_cain_the_power_of_introverts.html)
+* Shawn Cornally (@thinkthankthunk, (http://101studiostreet.com/wordpress/)
+* Paula White (@paulawhite, http://tzstchr.edublogs.org/)
+* Antero Garcia (http://www.theamericancrawl.com/)
+* Clifford Lee (http://digitalis.nwp.org/resource/449)
+* Paul Allison (http://youthvoices.net)
+* Bud Hunt (@budtheteacher) (http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/)
