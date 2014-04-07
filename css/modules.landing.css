@@ -35,3 +35,13 @@ main > section {
 .connectingBanner{
 	border-top: 5px solid #27AAE1;
 }
+.mini{
+	padding-top:0;
+	color:white;
+	padding-bottom:4%;
+}
+
+.mini p{
+	font-size:18px;
+	font-weight:300;
+}
