@@ -50,7 +50,9 @@
     {% for subpage in site.categories[course.category] reversed %}
       <li class="{% if subpage.title == page.title %}active{% endif %}" > <a href="{{site.baseurl}}{{ subpage.url }}">{{subpage.title}}</a></li>
     {% endfor %}
-    <li><a href="http://discourse.webmakerprototypes.org/category/{{course.category}}"><i class="fa fa-comments"></i> Discussion</a></li>
+    {% if course.category %}
+      <li><a href="http://discourse.webmakerprototypes.org/category/{{course.category}}"><i class="fa fa-comments"></i> Discussion</a></li>
+    {% endif %}
     </ul>
 </div>
 </nav>
