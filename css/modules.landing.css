@@ -11,6 +11,7 @@ main > section {
 }
 .module .well {
 	background-color: white;
+	min-height:370px;
 }
 .module-fork {
 	margin-top: -21px;
