@@ -10,26 +10,26 @@ exclude_from_upload:
 
 redirects:
     index.html: /en/
-    /about/index.html: /en/about/
-    /help/index.html: /en/help/
-    /host-a-training/index.html: /en/host-a-training/
-    /start-here/index.html: /en/start-here/
-    /exploring/explore/index.html: /en/exploring/explore/
-    /exploring/make/index.html: /en/exploring/make/
-    /exploring/resources/index.html: /en/exploring/resources/
-    /exploring/teach/index.html: /en/exploring/teach/
-    /building/explore/index.html: /en/building/explore/
-    /building/make/index.html: /en/building/make/
-    /building/resources/index.html: /en/building/resources/
-    /building/teach/index.html: /en/building/teach/
-    /facilitating/explore/index.html: /en/facilitating/explore/
-    /facilitating/make/index.html: /en/facilitating/make/
-    /facilitating/resources/index.html: /en/facilitating/resources/
-    /facilitating/teach/index.html: /en/facilitating/teach/
-    /facilitating/reflect/index.html: /en/facilitating/reflect/
-    /connecting/explore/index.html: /en/connecting/explore/
-    /connecting/make/index.html: /en/connecting/make/
-    /connecting/resources/index.html: /en/connecting/resources/
-    /connecting/teach/index.html: /en/connecting/teach/
-    /connecting/reflect/index.html: /en/connecting/reflect/
+    about/index.html: /en/about/
+    help/index.html: /en/help/
+    host-a-training/index.html: /en/host-a-training/
+    start-here/index.html: /en/start-here/
+    exploring/explore/index.html: /en/exploring/explore/
+    exploring/make/index.html: /en/exploring/make/
+    exploring/resources/index.html: /en/exploring/resources/
+    exploring/teach/index.html: /en/exploring/teach/
+    building/explore/index.html: /en/building/explore/
+    building/make/index.html: /en/building/make/
+    building/resources/index.html: /en/building/resources/
+    building/teach/index.html: /en/building/teach/
+    facilitating/explore/index.html: /en/facilitating/explore/
+    facilitating/make/index.html: /en/facilitating/make/
+    facilitating/resources/index.html: /en/facilitating/resources/
+    facilitating/teach/index.html: /en/facilitating/teach/
+    facilitating/reflect/index.html: /en/facilitating/reflect/
+    connecting/explore/index.html: /en/connecting/explore/
+    connecting/make/index.html: /en/connecting/make/
+    connecting/resources/index.html: /en/connecting/resources/
+    connecting/teach/index.html: /en/connecting/teach/
+    connecting/reflect/index.html: /en/connecting/reflect/
 
