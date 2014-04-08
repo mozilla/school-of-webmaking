@@ -4,5 +4,3 @@ baseurl:
 url: training.webmaker.org
 permalink: en/:categories/:title/
 ga_tracking_code: UA-48377627-1
-gems:
-  - jekyll-redirect-from
