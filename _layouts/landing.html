@@ -5,9 +5,7 @@
 <!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 {% assign current_course = page.course %}
-{% unless current_course %}
-  {% assign current_course = page.categories[0] %}
-{% endunless %}
+{% assign language = page.url | replace_first:'/','' | split:"/" | first %}
 <head>
   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
   <meta charset="utf-8">
@@ -32,7 +30,8 @@
 <body {% if page.itemtype %}itemscope itemtype="{{page.itemtype}}"{% endif %}>
 
   <div id="wrap">
-    {% include topnav.html %}
+    {% assign topnav = 'topnav-' | append:language | append:'.html' }} %}
+    {% include {{topnav}} %}
     {{ content }}
   </div>
 

@@ -2,6 +2,7 @@ encoding: utf-8
 markdown: redcarpet
 baseurl:
 url: training.webmaker.org
-permalink: :categories/:title/
+permalink: en/:categories/:title/
 ga_tracking_code: UA-48377627-1
-disqus_shortname:
+gems:
+  - jekyll-redirect-from
