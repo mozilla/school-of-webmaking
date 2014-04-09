@@ -29,7 +29,7 @@ facilitating:
   category: facilitating
   language: en
   based_on:
-  image: /img/thumbnail-360px.png
+  image: /img/facilitating-360px.jpg
   organizers:
    - name: Laura
      image: http://placehold.it/400x400
@@ -39,7 +39,7 @@ connecting:
   title: "Connecting"
   category: connecting
   language: en
-  image: /img/thumbnail-360px.png
+  image: /img/connecting-360px.png
   based_on: 
   organizers:
    - name: Laura
