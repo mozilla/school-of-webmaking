@@ -33,7 +33,7 @@ Participating is learning. How much you dig in is entirely up to you. You’ll g
 * Share your ideas and weekly “makes” in the [Teach the Web Community](http://discourse.webmakerprototypes.org/).
 * Find your crew. Look at the intros and makes and follow 2-3 people who sound interesting to you during the course.
 * Tag your posts [#teachtheweb](https://twitter.com/search?q=teachtheweb&src=typd&f=realtime) on Twitter.
-* Recommend other resources in the G+ Community by tagging #ttwresources
+* Recommend other resources in the [Discourse Community](http://discourse.webmakerprototypes.org/)
 
 
 You aren’t alone, and there are no mistakes. In fact, here’s your network of support in #teachtheweb.
