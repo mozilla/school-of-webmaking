@@ -89,7 +89,6 @@ And ds106 is also open to anyone interested in making digital art along with us 
 Making Learning Connected (#clmooc) is a collaborative, knowledge-building and sharing experience open to anyone who’s interested in making, creativity and learning. Together over six weeks we will play with new tools and processes for making projects, share our results and our learning, and explore the educational model known as Connected Learning. 
 
 
-
 ## The Design Process
 
 ### Paper Prototyping
@@ -111,8 +110,12 @@ Making Learning Connected (#clmooc) is a collaborative, knowledge-building and s
 
 --Donald Schön ["The Reflective Practioner"](http://infed.org/mobi/donald-schon-learning-reflection-change/) 
 
-
 ## Peers working in the Open
+
+>I feel like folks forget they are the agents of their experiences.  We have agency.  Power. Control.  Maybe not over everything that happens.  Certainly not all.  But over more than we realize more often than not.
+
+--Bud Hunt [In Search of Agency](http://budtheteacher.com/blog/2012/03/29/in-search-of-agency/)
+
 Great documentarians, who invite collaboration and feedback through their reflections:
 
 * [Kevin Hodgson](http://dogtrax.edublogs.org/) [@dogtrax](https://twitter.com/dogtrax)

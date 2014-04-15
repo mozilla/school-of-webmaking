@@ -61,13 +61,17 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
 -- Matt Thompson, ["How to Work Open"](http://openmatt.org/2011/04/06/how-to-work-open/)
 
+>Learning about "open".  The School of Open offers online courses, face-to-face workshops, and innovative training programs on the meaning, application, and impact of “openness” in the digital age and its benefit to creative endeavors, education, and research. 
+
+-- [School of Open] (https://p2pu.org/en/schools/school-of-open/)
+
 ### Connected Learning Communities
 
-* Hive NYC http://explorecreateshare.org
-* NWP http://nwp.org
-* Connected Learning Google + Community: https://plus.google.com/u/0/communities/113655426574061601680?cfem=1
-* Connected Learning: Tying Student Passions to School Subjects: http://blogs.kqed.org/mindshift/2013/04/connected-learning-tying-to-student-passions-to-school-subjects/
-* A massive list of Connected Learning posts at the DML site: http://dmlcentral.net/tags/connected-learning
+* <a href="http://explorecreateshare.org">Hive NYC</a> 
+* <a href="http://digitalis.nwp.org">NWP DigitalIs</a> 
+* <a href="https://plus.google.com/u/0/communities/113655426574061601680?cfem=1">Connected Learning Google + Community</a>
+* <a href="http://blogs.kqed.org/mindshift/2013/04/connected-learning-tying-to-student-passions-to-school-subjects/">Connected Learning: Tying Student Passions to School Subjects</a>
+* <a href="http://dmlcentral.net/tags/connected-learning">A massive list of Connected Learning posts at the DML site</a>
 
 
 
