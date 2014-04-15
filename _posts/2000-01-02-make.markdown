@@ -9,7 +9,7 @@ categories: [exploring]
 
 Choose one of these "Make" activities, and share your work with the community for feedback. After your first make, move on to think through how you might assess the skills you've learned through making a Badge ("Make to Reflect").
 
-## Make Option 1: Say "Hello" by showing #teachtheweb what you think.
+## 1. Say "Hello" by showing #teachtheweb what you think.
 
 We’re more than handles, icons and profile pictures--we’re humans and peers in this together. In getting started, explore one of the following questions:
 
@@ -32,7 +32,7 @@ To get you started, you might take one of these rad introductions other folks ha
 Then go ahead and post your first “Make” to the [Webmaker Community](http://discourse.webmakerprototypes.org/). 
 
 
-## Make Option 2: How do *we* define our terms?
+## 2. How do *we* define our terms?
 
 As the “Makes” begin to stream in from our cohort, take a look and see:
 
@@ -44,19 +44,19 @@ If you are so inspired, either:
 * Respond to their post, or even better.. 
 * Remix it from your point-of-view. Be sure to mention them with an +[name] when you post it.
 
-## Make Option 3: Connect Yourself to Connected Learning
+## 3. Connect Yourself to Connected Learning
 
 Identify an exercise in your teaching or engagement practice that you might redesign using Connected Learning principles. Walk us through how you “usually” do it, and then what your new experience would look like. 
 
 If you’d like some further “inspiration” try hitting up the [DML Hub](http://dmlhub.net/research) or [Connected Learning](http://connectedlearning.tv/) site for some tasty resources. Link to the resource that inspired you in your post.
 
-## Make Option 4: Open it Up
+## 4. Open it Up
 
 When have you been surprised and delighted that something was “open” for you to use? This could be OER content, an open web tool, or a picture you found on the internet. Create a “make” about that experience.
 
 ## Make to Reflect
 
-Over the course of #Teachtheweb, we're developing an understanding of the following ideas:
+Over the course of #TeachTheWeb, we're developing an understanding of the following ideas:
 
 - Making as a way of learning
 - Building open learning experiences for others 
