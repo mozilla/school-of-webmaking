@@ -5,9 +5,8 @@ topic_url: http://ttw-discourse.mofostaging.net/t/comments-about-make/13
 categories: [exploring]
 ---
 
-<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/cadecairos/gallery/stylesheets/makeGallery.css">
-<script src="https://s3.amazonaws.com/cadecairos/gallery/make-api.js"></script>
-<script src="https://s3.amazonaws.com/cadecairos/gallery/makeGallery.js"></script>
+<script src="{{site.baseurl}}/js/make-api.js"></script>
+<script src="{{site.baseurl}}/js/makeGallery.js"></script>
 
 #Make to learn tech skills and concepts.
 
@@ -27,7 +26,9 @@ with one of the following webtastic tools:
 
 To get you started, check out these introductions other folks have made and hit "remix". Then go ahead and post your first “Make” to the [Webmaker Community](http://discourse.webmakerprototypes.org/). 
 
-<div class="make-gallery"></div>
+<div class="gallery">
+<div class="make-gallery row"></div>
+</div>
 <script type="text/javascript">
 			var gallery = new MakeGallery(
 			{
@@ -36,7 +37,8 @@ To get you started, check out these introductions other folks have made and hit 
 			},
 			".make-gallery",
 			{
-			apiURL: "https://makeapi.webmaker.org",
+	    		apiURL: "https://makeapi.webmaker.org",
+                hidden: ["tags"]
 			});
 </script>
 
