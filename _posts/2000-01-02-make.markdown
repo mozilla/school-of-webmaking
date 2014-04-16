@@ -6,11 +6,11 @@ categories: [exploring]
 ---
 
 
-		<script src="https://s3.amazonaws.com/cadecairos/gallery/make-api.js"></script>
-		<script src="https://s3.amazonaws.com/cadecairos/gallery/makeGallery.js"></script>
+<script src="https://s3.amazonaws.com/cadecairos/gallery/make-api.js"></script>
+<script src="https://s3.amazonaws.com/cadecairos/gallery/makeGallery.js"></script>
 
-		<div class="make-gallery"></div>
-		<script type="text/javascript">
+<div class="make-gallery"></div>
+<script type="text/javascript">
 			var gallery = new MakeGallery(
 			{
 				tagPrefix: "moz",
@@ -20,9 +20,9 @@ categories: [exploring]
 			{
 			apiURL: "https://makeapi.webmaker.org",
 			});
-		</script>
+</script>
 		
-		<script type="text/javascript">var x = 10;alert(x);</script>
+<script type="text/javascript">var x = 10;alert(x);</script>
 
 
 #Make to learn tech skills and concepts.
