@@ -5,6 +5,26 @@ topic_url: http://ttw-discourse.mofostaging.net/t/comments-about-make/13
 categories: [exploring]
 ---
 
+
+		<script src="https://s3.amazonaws.com/cadecairos/gallery/make-api.js"></script>
+		<script src="https://s3.amazonaws.com/cadecairos/gallery/makeGallery.js"></script>
+
+		<div class="make-gallery"></div>
+		<script type="text/javascript">
+			var gallery = new MakeGallery(
+			{
+				tagPrefix: "moz",
+				limit: 20
+			},
+			".make-gallery",
+			{
+			apiURL: "https://makeapi.webmaker.org",
+			});
+		</script>
+		
+		<script type="text/javascript">var x = 10;alert(x);</script>
+
+
 #Make to learn tech skills and concepts.
 
 Choose one of these "Make" activities, and share your work with the community for feedback. After your first make, move on to think through how you might assess the skills you've learned through making a Badge ("Make to Reflect").
