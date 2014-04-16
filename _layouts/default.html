@@ -1,11 +1,15 @@
 ---
 layout: base
-extra_css: true
 ---
+{% assign current_course = page.categories[0] %}
 {% assign language = page.url | replace_first:'/','' | split:"/" | first %}
+
 <div id="wrap">
   {% assign topnav = 'topnav-' | append:language | append:'.html' }} %}
   {% include {{topnav}} %}
-
-  {{ content }}
+  <div id="content" class="container">
+    {{ content }}
+  </div>
 </div>
+
+
