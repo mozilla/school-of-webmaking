@@ -32,7 +32,7 @@ To get you started, check out these introductions other folks have made and hit 
 <script type="text/javascript">
 			var gallery = new MakeGallery(
 			{
-				tagPrefix: "exploringmake1",
+				tagPrefix: "webmaker:exploring-makeprompt",
 				limit: 3
 			},
 			".make-gallery",
