@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-{% assign language = page.url | replace_first:'/','' | split:"/" | first %}
+{% include lang.html %}
 <div id="wrap">
   {% assign topnav = 'topnav-' | append:language | append:'.html' }} %}
   {% include {{topnav}} %}

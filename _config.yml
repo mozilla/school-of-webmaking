@@ -2,5 +2,7 @@ encoding: utf-8
 markdown: redcarpet
 baseurl:
 url: training.webmaker.org
+languages: ['en']
+default_language: 'en'
 permalink: en/:categories/:title/
 ga_tracking_code: UA-48377627-1
