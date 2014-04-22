@@ -4,7 +4,7 @@ layout: multicourse_page
 categories: [exploring]
 ---
 
-# Further Resources
+# Resource Library
 
 ## Making as Learning
 
