@@ -2,40 +2,25 @@ exploring:
   title: "Exploring"
   category: exploring
   language: en
-  based_on:
   image: /img/discover-360px.jpg
   image_attribution: http://www.flickr.com/photos/mozillaeu/10491775973/in/photostream/
   attribution_name: Mozilla Europe
-  organizers:
-   - name: Laura
-     image: http://placehold.it/400x400
-     url: https://p2pu.org/mozilla/
 
 building:
   title: "Building"
   category: building
   language: en
-  based_on:
   image: /img/building-360px.jpg
   image_attribution: https://secure.flickr.com/photos/debloper/10607673915/in/photostream/
   attribution_name: Soumya Deb
-  organizers:
-   - name: Laura
-     image: http://placehold.it/400x400
-     url: https://p2pu.org/mozilla/
 
 facilitating:
   title: "Facilitating"
   category: facilitating
   language: en
-  based_on:
   image: /img/facilitating-360px.jpg
   image_attribution: https://secure.flickr.com/photos/sylwiapresleyart/
   attribution_name: Sylwia Presley
-  organizers:
-   - name: Laura
-     image: http://placehold.it/400x400
-     url: https://p2pu.org/mozilla/
 
 connecting:
   title: "Connecting"
@@ -44,8 +29,3 @@ connecting:
   image: /img/connecting.jpg
   image_attribution: http://webmaker.org
   attribution_name: Mozilla
-  based_on: 
-  organizers:
-   - name: Laura
-     image: http://placehold.it/400x400
-     url: https://p2pu.org/mozilla/
