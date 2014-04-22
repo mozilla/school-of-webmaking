@@ -310,12 +310,11 @@ makeHTML = ''+
     var makeClient = new MakeAPI( clientConfig );
 
     query.limit = query.limit ? query.limit : DEFAULT_LIMIT;
-    makeClient.find( query ).then(function( err, makes, count ) {
+    makeClient.find( query ).then(function( err, makes ) {
       if ( err ) {
         throw err;
       }
-
-      if ( count ) {
+      if ( makes && makes.length ) {
         build( self.element, makes, clientConfig );
       } else {
         // what do we do for no makes?
