@@ -1,38 +1,6 @@
 (function() {
 
-  var makeHTML = '' +
-' <div class="make-node">' +
-' <div class="make-node-inner">' +
-'    <a href="#" class="make-link">' +
-'      <div class="make-thumbnail"></div>' +
-'    </a>' +
-'    <div class="make-details">' +
-'      <h1>' +
-'        <a href="#" class="make-details-link"></a>' +
-'      </h1>' +
-'      <p class="make-meta">' +
-'        <img class="make-user-avatar">' +
-'        <span class="make-meta-author">Created by <a href="#" class="make-details-user">@flukeout</a></span>' +
-'        <span class="make-meta-timestamp"><span class="make-details-timestamp"></span> ago</span>' +
-'        <span class="make-likes">,'+
-'         <span class="make-likes-count"></span> like</span>' +
-'        </span>'+
-'     </p>' +
-'     <p class="make-description"></p>' +
-'      <div class="make-tags"></div>' +
-'      </div>' +
-'      <div class="button-container">' +
-'        <a href="#" class="make-remix">' +
-'          <span class="icon-remix"></span>' +
-'          Remix' +
-'        </a>' +
-'        <a href="#" class="make-like">' +
-'          &nbsp;' +
-'        </a>' +
-'      </div>' +
-'    </div>';
-
-makeHTML = ''+
+var makeHTML = ''+
 '<div class="gallery-item col-xs-12 col-sm-4 col-lg-4 make-node">' +
 '<div class="thumbnail">' +
 '  <a href="#" class="make-link">' +
@@ -274,9 +242,9 @@ makeHTML = ''+
       var height = makeDetails.offsetHeight;
 
       if (height > tallest){
-        tallest = height - 50;
+        tallest = height;
       }
-
+      tallest += 5;
       if(rowItem >= parseInt(itemsPerRow-1)) {
         for(var j = (i-itemsPerRow+1); j < i+1; j ++ ){
           makeEls[j].querySelector(".make-details").style.height = tallest + "px";
