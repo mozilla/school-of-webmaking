@@ -10,7 +10,7 @@ categories: [exploring]
 
 #Make to learn tech skills and concepts.
 
-## 1. Say "Hello" by showing #teachtheweb what you think.
+## 1. Say "Hello" by showing #TeachTheWeb what you think.
 
 We’re more than handles, icons and profile pictures--we’re humans and peers in this together. In getting started, explore one of the following questions:
 
