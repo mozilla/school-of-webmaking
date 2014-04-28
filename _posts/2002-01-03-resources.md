@@ -31,17 +31,15 @@ interaction where participants drive.
 
 >3. Select sessions at random. Have folks put their session ideas in a big, Inventables-branded molded drum and pull them out. Or have campers spin a wheel when they walk in and a session spot is one of the prized options. Or have them roll ridiculous dice. The idea here is to not separate “ideas of ladies” vs. “ideas of dudes.” It’s important that women are not reminded of their gender before they do something potentially cognitively stressful (Steele & Ambady, 2006).
 
---Vanessa Gennarelli [How to Design Community Events that People Will Love (and Remember))[http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/]
+--Vanessa Gennarelli [How to Design Community Events that People Will Love (and Remember)](http://dangerouslyawesome.com/2014/02/how-to-design-community-building-events-that-people-will-love-and-remember/)
 
 
 ## Playtesting 
 
-* 5 Tips for Getting the Most Out of Playtesting Your Game (replace the word “game” with “activity”, “resource”, “lesson plan”, “idea” or anything else and this post is still highly valuable.) https://www.playtestcloud.com/blog/2013/05/02/5-tips-for-getting-the-most-out-of-playtesting-your-game/
-
-* How We Do Playtesting (And So Can You!) http://pixelcrucible.com/2013/05/ho
-* Off the Wall Learning Gets Playtested and Shared: http://explorecreateshare.org/2012/12/19/off-the-wall-learning-gets-playtested-and-shared/
-* One.More.Time. Playtesting the Mozilla Webmaker Projects: http://chloeatplay.tumblr.com/post/23567902439/one-more-time-playtesting-the-mozilla-webmaker
-
-* A skunk in the library" - http://nowviskie.org/2011/a-skunk-in-the-library/
-* Tiltfactor: Get Involved: http://www.tiltfactor.org/get-involved/
+* [5 Tips for Getting the Most Out of Playtesting Your Game (replace the word “game” with “activity”, “resource”, “lesson plan”, “idea” or anything else and this post is still highly valuable.)](https://www.playtestcloud.com/blog/2013/05/02/5-tips-for-getting-the-most-out-of-playtesting-your-game/) 
+* [How We Do Playtesting (And So Can You!)](http://pixelcrucible.com/2013/05/ho)
+* [Off the Wall Learning Gets Playtested and Shared](http://explorecreateshare.org/2012/12/19/off-the-wall-learning-gets-playtested-and-shared/)
+* [One.More.Time. Playtesting the Mozilla Webmaker Projects](http://chloeatplay.tumblr.com/post/23567902439/one-more-time-playtesting-the-mozilla-webmaker)
+* [* A skunk in the library"](http://nowviskie.org/2011/a-skunk-in-the-library/)
+* [Tiltfactor: Get Involved](http://www.tiltfactor.org/get-involved/)
 
