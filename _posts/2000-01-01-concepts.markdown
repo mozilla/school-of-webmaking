@@ -39,7 +39,7 @@ In practice, it would seem that both hyper-local aspects as well as global conne
 
 ##Open Web
 
-When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) through the lens of copyright/copyleft, ii) through the technical structures that make a webpage open or not, iii) through the cultural practices the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
+When we talk about “openness”, there are a variety of things that come to mind. We can view openness i) <a href="https://p2pu.org/en/schools/school-of-open/">through the lens of copyright/copyleft</a>, ii) <a href="https://developer.mozilla.org/en-US/docs/Web_Standards">through the technical structures</a> that make a webpage open or not, iii) through <a href="https://wiki.mozilla.org/Working_open">the cultural practices</a> the Open Community prides itself on, and so on. The term openness is a confluence of technical, cultural and social definitions that can get meta pretty quickly.
 
 ###Tenets of Openness
 ![A Mark Surman Doodle][8]

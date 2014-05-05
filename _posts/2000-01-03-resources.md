@@ -43,6 +43,10 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
 ### Openness 
 
+>Learning about "open".  The School of Open offers online courses, face-to-face workshops, and innovative training programs on the meaning, application, and impact of “openness” in the digital age and its benefit to creative endeavors, education, and research. 
+
+-- [School of Open] (https://p2pu.org/en/schools/school-of-open/)
+
 > Rather, the Open Movement is an umbrella term that describes a number of overlapping and interrelated movements that, collectively, support the idea of a free and open society in the Arts, Education, government, computing/code, research, technology, medicine, copyright/copyleft, and other key areas. 
 
 -- ETMOOC's ["The Open Movement – Open Access, OERs & Future of Education"](http://etmooc.org/blog/2013/03/02/topic-4-the-open-movement-open-access-oers-future-of-education/)
@@ -60,10 +64,6 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 >>*leverage.* getting greater bang from limited resources. punching above our weight.
 
 -- Matt Thompson, ["How to Work Open"](http://openmatt.org/2011/04/06/how-to-work-open/)
-
->Learning about "open".  The School of Open offers online courses, face-to-face workshops, and innovative training programs on the meaning, application, and impact of “openness” in the digital age and its benefit to creative endeavors, education, and research. 
-
--- [School of Open] (https://p2pu.org/en/schools/school-of-open/)
 
 ### Connected Learning Communities
 
