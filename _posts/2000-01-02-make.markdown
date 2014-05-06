@@ -52,7 +52,7 @@ As the “Makes” begin to stream in from our cohort, take a look and see:
 If you are so inspired, either:
 
 * Respond to their post, or even better.. 
-* Remix it from your point-of-view. Be sure to mention them with an +[name] when you post it.
+* Remix it from your point-of-view. Be sure to mention them with an @[name] when you post it.
 
 ## 3. Connect Yourself to Connected Learning
 
