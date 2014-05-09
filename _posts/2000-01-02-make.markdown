@@ -64,6 +64,16 @@ If you’d like some further “inspiration” try hitting up the [DML Hub](http
 
 When have you been surprised and delighted that something was “open” for you to use? This could be OER content, an open web tool, or a picture you found on the internet. Create a “make” about that experience.
 
+<a href="http://schoolofopen.org" target="_blank"><img src="https://p2pu.org/media/images/schools/1/b6b72b17ceed5b585866d476693667bb.png" style="float:right;"></a> 
+###Learn about Open Licensing
+The <a href="http://schoolofopen.org" target="_blank">School of Open</a> offers many courses and challenges that can be worked through at your own pace at any time, with or without others. To explore what open licensing is all about, try these great learning activities:
+
+* <a href="https://p2pu.org/en/groups/get-cc-savvy/">Get Creative Commons Savvy</a>
+* <a href="https://p2pu.org/en/groups/teach-someone-something-with-open-content/">Teach someone something with open content</a>
+* <a href="https://p2pu.org/en/courses/3/">Get a CC license. Put it on your Website.</a>
+
+<a href="http://groups.google.com/group/school-of-open-announce">Sign up</a> for the School of Open's next facilitated round of CC for K-12 educators!</a>
+
 ## Make to Reflect
 
 Over the course of #TeachTheWeb, we're developing an understanding of the following ideas:
