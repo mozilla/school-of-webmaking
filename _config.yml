@@ -1,8 +1,9 @@
 encoding: utf-8
 markdown: redcarpet
 baseurl:
-url: training.webmaker.org
+url: training.webmakerprototypes.org
 languages: ['en']
 default_language: 'en'
 permalink: en/:categories/:title/
-ga_tracking_code: UA-48377627-1
+ga_tracking_code: UA-48377627-2
+
