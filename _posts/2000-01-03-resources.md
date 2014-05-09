@@ -31,6 +31,10 @@ categories: [exploring]
 Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
 ### Connected Learning
+>Connected Learning leverages the advances of the digital age to make that dream a reality — connecting academics to interests, learners to inspiring peers and mentors, and educational goals to the higher order skills the new economy rewards. 
+
+--Why Connected Learning? [Connected Learning Alliance](http://clalliance.org/why-connected-learning/)
+
 > At the core of connected learning are three values: 
 >>Equity — when educational opportunity is available and accessible to all young people, it elevates the world we all live in. 
 
