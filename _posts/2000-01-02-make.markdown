@@ -90,5 +90,3 @@ If you were to create a Badge to reflect the skills you mastered in your Make, w
 - List the criteria: what would the criteria for the Badge be? How would someone show the skills you mastered in your make?
 - Share it with us. Let the community know how you think these skills should be assessed.
 
-## Apply for your Webmaker Mentor Badge
-Create a portfolio of your Teach the Web work, and <a href="http://blog.webmaker.org/mentor">apply for the Webmaker Mentor Badge</a>!
