@@ -23,7 +23,7 @@ Cultural anthropologists and researchers funded by the MacArthur Foundation's Di
 
 This model (see below) is based on a large body of research and includes Connected Learning principles and core values.
 
-<a href="http://connectedlearning.tv/infographic"><img alt="the Connected Learning Model" src="http://connectedlearning.tv/sites/connectedlearning.tv/files/DG_Macarthur_r03-960_0.jpeg"/></a>
+<a href="http://clalliance.org/why-connected-learning/"><img alt="the Connected Learning Model" src="http://stuff.webmaker.org/teach-assets/teachtheweb/images/connectedlearninggraphic.png"/></a>
 
 These principles state that education in the modern world needs to be:
 
