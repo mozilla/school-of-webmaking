@@ -1,7 +1,6 @@
 ---
 title: <span class="fa fa-random"></span> Concepts
 layout: multicourse_page
-topic_url: http://discourse.mofostaging.net/t/comments-about-concepts/12
 categories: [exploring]
 ---
 

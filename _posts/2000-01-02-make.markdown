@@ -1,7 +1,6 @@
 ---
 title: <i class="fa fa-hand-o-up"></i> Make
 layout: multicourse_page
-topic_url: http://ttw-discourse.mofostaging.net/t/comments-about-make/13
 categories: [exploring]
 ---
 
