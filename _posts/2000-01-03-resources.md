@@ -30,7 +30,7 @@ categories: [exploring]
 
 Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
-### Connected Learning
+## Connected Learning
 >Connected Learning leverages the advances of the digital age to make that dream a reality — connecting academics to interests, learners to inspiring peers and mentors, and educational goals to the higher order skills the new economy rewards. 
 
 --Why Connected Learning? [Connected Learning Alliance](http://clalliance.org/why-connected-learning/)
@@ -45,7 +45,15 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
 -- Henry Jenkin's [Connected Learning](http://henryjenkins.org/2012/03/connected_learning_a_new_parad.html) 
 
-### Openness 
+### Connected Learning Communities
+
+* <a href="http://explorecreateshare.org">Hive NYC</a> 
+* <a href="http://digitalis.nwp.org">NWP DigitalIs</a> 
+* <a href="https://plus.google.com/u/0/communities/113655426574061601680?cfem=1">Connected Learning Google + Community</a>
+* <a href="http://blogs.kqed.org/mindshift/2013/04/connected-learning-tying-to-student-passions-to-school-subjects/">Connected Learning: Tying Student Passions to School Subjects</a>
+* <a href="http://dmlcentral.net/tags/connected-learning">A massive list of Connected Learning posts at the DML site</a>
+
+## Openness 
 
 >Learning about "open".  The School of Open offers online courses, face-to-face workshops, and innovative training programs on the meaning, application, and impact of “openness” in the digital age and its benefit to creative endeavors, education, and research. 
 
@@ -69,14 +77,8 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
 -- Matt Thompson, ["How to Work Open"](http://openmatt.org/2011/04/06/how-to-work-open/)
 
-### Connected Learning Communities
+## Great Resources for Webmaking
 
-* <a href="http://explorecreateshare.org">Hive NYC</a> 
-* <a href="http://digitalis.nwp.org">NWP DigitalIs</a> 
-* <a href="https://plus.google.com/u/0/communities/113655426574061601680?cfem=1">Connected Learning Google + Community</a>
-* <a href="http://blogs.kqed.org/mindshift/2013/04/connected-learning-tying-to-student-passions-to-school-subjects/">Connected Learning: Tying Student Passions to School Subjects</a>
-* <a href="http://dmlcentral.net/tags/connected-learning">A massive list of Connected Learning posts at the DML site</a>
-
-
+KQED has produced two excellent and easy to understand tutorials on the Webmaker tools <a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a> and <a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>.
 
 
