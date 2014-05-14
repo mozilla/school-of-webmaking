@@ -69,3 +69,7 @@ Gerhard Fischer, [“Understanding, Fostering, and Supporting Cultures of Partic
 </script>
 ### Participatory Event Hacking
 <div class="storify"><iframe src="//storify.com/andreazellner/ncte12-hackjam-tech2go/embed?header=false&border=false&template=slideshow" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/andreazellner/ncte12-hackjam-tech2go.js?header=false&border=false&template=slideshow"></script><noscript>[<a href="//storify.com/andreazellner/ncte12-hackjam-tech2go" target="_blank">View the story "#ncte12 #hackjam #tech2go" on Storify</a>]</noscript></div>
+
+## Great Resources for Webmaking
+
+KQED has produced two excellent and easy to understand tutorials on the Webmaker tools <a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a> and <a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>.

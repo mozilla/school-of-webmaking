@@ -43,3 +43,6 @@ interaction where participants drive.
 * [* A skunk in the library"](http://nowviskie.org/2011/a-skunk-in-the-library/)
 * [Tiltfactor: Get Involved](http://www.tiltfactor.org/get-involved/)
 
+## Great Resources for Webmaking
+
+KQED has produced two excellent and easy to understand tutorials on the Webmaker tools <a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a> and <a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>.
