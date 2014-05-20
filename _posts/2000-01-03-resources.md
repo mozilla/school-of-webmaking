@@ -6,6 +6,16 @@ categories: [exploring]
 
 # Resource Library
 
+## Great Resources for Webmaking
+
+KQED has produced excellent and easy to understand tutorials on two of the Webmaker tools:
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/siQMnr2yzBE" frameborder="0" allowfullscreen></iframe>
+<a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/0wiqG8C6s1k" frameborder="0" allowfullscreen></iframe>
+<a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>
+
 ## Making as Learning
 
 >..the best maker-driven learning is never just about the making. It’s about all the things that happen around the making. That initial spark of curiosity, the investigation and early tinkering, the planning and research that follow, the inspirations and appropriations from other projects, the prototypes, the failures, the feedback, and, perhaps most importantly, the iterations upon iterations towards a better make. All of these acts are done in and contingent on well configured social contexts, in communities of practice and affinity spaces. 
@@ -77,8 +87,6 @@ Sylvia's [Super-Aweseome Maker Show](http://sylviashow.com/)
 
 -- Matt Thompson, ["How to Work Open"](http://openmatt.org/2011/04/06/how-to-work-open/)
 
-## Great Resources for Webmaking
 
-KQED has produced two excellent and easy to understand tutorials on the Webmaker tools <a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a> and <a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>.
 
 
