@@ -7,6 +7,16 @@ categories: [building]
 
 # Resource Library 
 
+## Great Resources for Webmaking
+
+KQED has produced excellent and easy to understand tutorials on two of the Webmaker tools:
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/siQMnr2yzBE" frameborder="0" allowfullscreen></iframe>
+<a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/0wiqG8C6s1k" frameborder="0" allowfullscreen></iframe>
+<a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>
+
 ## You Make, You Learn
 
 ### Everyone Can Teach
