@@ -19,9 +19,9 @@ We’re more than handles, icons and profile pictures--we’re humans and peers 
 
 with one of the following webtastic tools:
 
-* [XRay Goggles Make](https://goggles.webmaker.org/)
-* [Thimble Make](https://thimble.webmaker.org/en-US)
-* [Popcorn Make](https://popcorn.webmaker.org/en-US)
+* [XRay Goggles Make](https://goggles.webmaker.org?ref=training)
+* [Thimble Make](https://thimble.webmaker.org?ref=training)
+* [Popcorn Make](https://popcorn.webmaker.org?ref=training)
 
 To get you started, check out these introductions other folks have made and hit "remix". Then go ahead and post your first “Make” to the [Webmaker Community](http://discourse.webmakerprototypes.org/). 
 
