@@ -5,6 +5,9 @@ exploring:
   image: /img/discover-360px.jpg
   image_attribution: http://www.flickr.com/photos/mozillaeu/10491775973/in/photostream/
   attribution_name: Mozilla Europe
+  badgeimage: http://discourse.webmakerprototypes.org/uploads/default/68/b6ab37f7589fc850.png
+  badgelink: http://badges.p2pu.org/en/badge/view/420/
+  badgename: Webmaker Explorer
 
 building:
   title: "Building"
