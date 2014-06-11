@@ -16,6 +16,9 @@ building:
   image: /img/building-360px.jpg
   image_attribution: https://secure.flickr.com/photos/debloper/10607673915/in/photostream/
   attribution_name: Soumya Deb
+  badgeimage: http://discourse.webmakerprototypes.org/uploads/default/69/f26e881cbd6041c5.png
+  badgelink: http://badges.p2pu.org/en/badge/view/429/
+  badgename: Webmaker Builder
 
 facilitating:
   title: "Facilitating"
@@ -24,6 +27,9 @@ facilitating:
   image: /img/facilitating-360px.jpg
   image_attribution: https://secure.flickr.com/photos/sylwiapresleyart/
   attribution_name: Sylwia Presley
+  badgeimage: http://discourse.webmakerprototypes.org/uploads/default/70/4c2824c9ee34dfd7.png
+  badgelink: http://badges.p2pu.org/en/badge/view/430/
+  badgename: Webmaker Facilitator
 
 connecting:
   title: "Connecting"
@@ -32,3 +38,6 @@ connecting:
   image: /img/connecting.jpg
   image_attribution: http://webmaker.org?ref=training
   attribution_name: Mozilla
+  badgeimage: http://discourse.webmakerprototypes.org/uploads/default/71/60fffe9c6779a764.png
+  badgelink: http://badges.p2pu.org/en/badge/view/431/
+  badgename: Webmaker Connector
