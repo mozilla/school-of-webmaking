@@ -1,6 +1,8 @@
 s3_id: <%= ENV['AWS_ACCESS_KEY'] %>
 s3_secret: <%= ENV['AWS_SECRET_KEY'] %>
 s3_bucket: training.webmakerprototypes.org
+cloudfront_distribution_id: EUO4GYGECFJM5
+cloudfront_invalidate_root: true
 
 exclude_from_upload:
   - CNAME
