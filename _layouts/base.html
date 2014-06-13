@@ -18,13 +18,13 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="{{site.baseurl}}/img/favicon.ico">
-  
+
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700" rel="stylesheet">
   <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
   <link href="{{site.baseurl}}/css/makerstrap.min.css" rel="stylesheet">
   <link href="{{site.baseurl}}/css/site.css" rel="stylesheet">
   <link href="{{site.baseurl}}/css/syntax.css" rel="stylesheet">
-  <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
   <!--link href="{{site.baseurl}}/css/landing.css" rel="stylesheet"-->
   {% if page.landing-style %}
     <link href="{{site.baseurl}}/css/{{page.landing-style}}.landing.css" rel="stylesheet">
@@ -38,12 +38,12 @@
   {% include {{footer}} %}
 
   <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> 
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   <script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
   <!-- Google Analytics -->
   {% if site.ga_tracking_code %}
     {% include ga.html %}
   {% endif %}
-  
+
 </body>
 </html>
