@@ -139,7 +139,3 @@ Great documentarians, who invite collaboration and feedback through their reflec
 * [Paul Allison](http://youthvoices.net)
 * [Bud Hunt](http://budtheteacher.com/blog/2012/03/18/not-beyondthetextbook-betterthetextbook/) [@budtheteacher](https://twitter.com/paulawhite)
 
-## Great Resources for Webmaking
-
-KQED has produced two excellent and easy to understand tutorials on the Webmaker tools <a href="http://blogs.kqed.org/education/2014/05/09/remix-websites-with-mozillas-x-ray-goggles/" target="_blank">X-Ray Goggles</a> and <a href="http://blogs.kqed.org/education/2014/03/13/how-to-make-dynamic-video-experiences-with-mozillas-popcorn-maker/">Popcorn Maker</a>.
-

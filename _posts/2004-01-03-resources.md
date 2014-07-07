@@ -1,7 +1,7 @@
 ---
 title: <span class="fa fa-book"></span> Resources
 layout: multicourse_page
-categories: [connecting]
+categories: [netneutrality]
 ---
 
 <script src="{{site.baseurl}}/js/make-api.js"></script>
