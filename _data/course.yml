@@ -41,3 +41,11 @@ connecting:
   badgeimage: http://discourse.webmakerprototypes.org/uploads/default/71/60fffe9c6779a764.png
   badgelink: http://badges.p2pu.org/en/badge/view/431/
   badgename: Webmaker Connector
+
+#drm:
+#  title: "drm"
+#  category: drm
+#  language: en
+#  image: /img/drm.jpg
+#  image_attribution: https://www.flickr.com/photos/baughj/
+#  attribution_name: Justin Baugh
