@@ -68,7 +68,8 @@
   <ul class="nav navbar-nav navbar-right">
       <li><a href="https://www.google.com/calendar/embed?src=zythepsary.com_q6ugl9iepetabcp9eg9ltmruic@group.calendar.google.com&ctz=Europe/London"><i class="fa fa-calendar"></i> Calendar</a> </li>
       <li><a href="http://discourse.webmakerprototypes.org/"><i class="fa fa-comments"></i> Discussion</a></li>
-      <li><a href="http://discourse.webmakerprototypes.org/t/ready-webmaker-training-badges/387"><i class="fa fa-certificate"></i> Badges</a></li>
+      <li {% if page.badges %}class="active"{% endif %}>
+      <a href="{{ site.baseurl }}/en/badges/"><i class="fa fa-certificate"></i> Badges</a></li>
   </ul>
   {% endif %}
 </div>
