@@ -9,6 +9,12 @@ main > section {
 	margin-top: -3rem;
 	background-color: #e3eaee;
 }
+
+.wideModule{
+	margin-bottom:2%;
+	min-height:325px;
+}
+
 .module .well {
 	background-color: white;
 	min-height:370px;
