@@ -1,3 +1,11 @@
+#netneutrality:
+#  title: "Net Neutrality"
+#  category: netneutrality
+#  language: en
+#  image: /img/netneutrality.jpg
+#  image_attribution: https://www.youtube.com/watch?v=cWt0XUocViE
+#  attribution_name: SaveTheInternet.com
+
 exploring:
   title: "Exploring"
   category: exploring
@@ -49,3 +57,4 @@ connecting:
 #  image: /img/drm.jpg
 #  image_attribution: https://www.flickr.com/photos/baughj/
 #  attribution_name: Justin Baugh
+
