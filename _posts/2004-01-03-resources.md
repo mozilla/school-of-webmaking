@@ -15,7 +15,9 @@ categories: [netneutrality]
 
 --The Guardian, [Net neutrality: what is it and why does it matter?](http://www.theguardian.com/technology/2014/may/14/net-neutrality-fcc-what-is-it)
 
-<iframe width="480" height="373" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="nyt_video_player" title="New York Times Video - Embed Player" src="http://graphics8.nytimes.com/bcvideo/1.0/iframe/embed.html?videoId=100000002881329&playerType=embed"></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/NAxMyTwmu_M" frameborder="0" allowfullscreen></iframe>
+
 
 >In short: the FCC would allow network owners (your Verizons, Comcasts, etc.) to create Internet "fast lanes" for companies (Disney, The Atlantic) that pay them more. For Internet activists, this directly violated the principle of net neutrality, which has been a hot-button issue in Silicon Valley for a long time. 
 
@@ -75,5 +77,3 @@ Image via [The Next Web](http://thenextweb.com/us/2010/08/19/riaa-speaks-out-aga
 >Traffic shaping (also known as "packet shaping") is a computer network traffic management technique which delays some or all datagrams to bring them into compliance with a desired traffic profile. Traffic shaping is a form of rate limiting.
 
 --[Traffic shaping](https://en.wikipedia.org/wiki/Traffic_shaping)
-
-## Where to next?
