@@ -61,7 +61,7 @@
       <li class="{% if subpage.title == page.title %}active{% endif %}" > <a href="{{site.baseurl}}{{ subpage.url }}">{{subpage.title}}</a></li>
     {% endfor %}
     {% if course.category %}
-      <li><a href="http://discourse.webmakerprototypes.org/category/{{course.category}}"><i class="fa fa-comments"></i> Discussion</a></li>
+      <li><a href="http://discourse.webmakerprototypes.org/category/training/{{course.category}}"><i class="fa fa-comments"></i> Discussion</a></li>
     {% endif %}
   </ul>
   {% if page.categories == null %}
