@@ -15,9 +15,12 @@ categories: [netneutrality]
 
 --The Guardian, [Net neutrality: what is it and why does it matter?](http://www.theguardian.com/technology/2014/may/14/net-neutrality-fcc-what-is-it)
 
+<div class="attribution">
+<a href="http://thenextweb.com/us/2010/08/19/riaa-speaks-out-against-net-neutrality-again/"><img src="http://cdn1.tnwcdn.com/files/2010/08/net_neutrality.jpg" width="300px"></a>
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/NAxMyTwmu_M" frameborder="0" allowfullscreen></iframe>
-
+<p>Image via <a href="http://thenextweb.com/us/2010/08/19/riaa-speaks-out-against-net-neutrality-again">The Next Web</a>
+</p>
+</div>
 
 >In short: the FCC would allow network owners (your Verizons, Comcasts, etc.) to create Internet "fast lanes" for companies (Disney, The Atlantic) that pay them more. For Internet activists, this directly violated the principle of net neutrality, which has been a hot-button issue in Silicon Valley for a long time. 
 
@@ -35,16 +38,33 @@ categories: [netneutrality]
 
 --[Protecting Net Neutrality and the Open Internet](https://blog.mozilla.org/netpolicy/2014/05/05/protecting-net-neutrality-and-the-open-internet/)
 
+##Actions on the policies around Net Neutrality
 
-![Net Neutrality](https://i.imgur.com/1Vrq8Z1.jpg)
-Image via [The Next Web](http://thenextweb.com/us/2010/08/19/riaa-speaks-out-against-net-neutrality-again/)
+>In its comments on Monday, the Internet Association criticized the possibility of ISPs charging content providers "for enhanced or prioritized access" and called for equal Internet traffic rules for both wired and wireless networks.
 
+-- Reuters, [U.S. web companies press demands for net neutrality with FCC] (http://www.reuters.com/article/2014/07/14/us-usa-internet-neutrality-idUSKBN0FJ0VP20140714)
+
+>The Commission must ensure that the Internet continues to be open and neutral.
+
+-- [Comments of the Internet Association submitted to the FCC](http://internetassociation.org/wp-content/uploads/2014/07/Comments.pdf)
+
+>Rights of free speech, and the free flow of information, are central to our society and economy -- and the principle of net neutrality gives every American an equal and meaningful opportunity to participate in both.
+
+-- [Official White House response on Net Neutrality] (https://petitions.whitehouse.gov/petition/restore-net-neutrality-directing-fcc-classify-internet-providers-common-carriers/5CWS1M4P)
+
+>Creativity, innovation and a free and open marketplace are all at stake in this fight.
+
+-- [Google's statement on Net Neutrality] (https://www.google.com/help/netneutrality_letter.html)
 
 ## Wikipedia Articles on Related Technologies and Policies
 
 >There has been extensive debate about whether net neutrality should be required by law, particularly in the United States. Debate over the issue of net neutrality predates the coining of the term. Advocates of net neutrality such as Lawrence Lessig have raised concerns about the ability of broadband providers to use their last mile infrastructure to block Internet applications and content (e.g. websites, services, and protocols), and even to block out competitors.
 
 --[Net Neutrality](https://en.wikipedia.org/wiki/Network_neutrality)
+
+>On 23 April 2014, the FCC is reported to be considering a new rule that will permit Internet service providers to offer content providers a faster track to send content, thus reversing their earlier net neutrality position.
+
+[Federal Communitcations Commission](http://en.wikipedia.org/wiki/Federal_Communications_Commission)
 
 >A common carrier in common law countries (corresponding to a public carrier in civil law systems,[1] usually called simply a carrier) is a person or company that transports goods or people for any person or company and that is responsible for any possible loss of the goods during transport. 
 

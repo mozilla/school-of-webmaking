@@ -1,4 +1,8 @@
-<div class="course-image"><img src="{{site.baseurl}}{{ course.image }}">
+<div class="course-image">
+{% if course.image-link %}<a href="{{ course.image-link }}">{% endif %}
+<img src="{{site.baseurl}}{{ course.image }}">
+{% if course.image-link %}</a>{% endif %}
+
 {% if course.image_attribution %}
   	
 <a href="{{course.image_attribution}}" class="attribution"><span class="fa fa-camera"></span> {{course.attribution_name}}</a>
