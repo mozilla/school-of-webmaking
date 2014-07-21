@@ -38,6 +38,8 @@ categories: [netneutrality]
 
 --[Protecting Net Neutrality and the Open Internet](https://blog.mozilla.org/netpolicy/2014/05/05/protecting-net-neutrality-and-the-open-internet/)
 
+<iframe width="640" height="360" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
+
 ##Actions on the policies around Net Neutrality
 
 >In its comments on Monday, the Internet Association criticized the possibility of ISPs charging content providers "for enhanced or prioritized access" and called for equal Internet traffic rules for both wired and wireless networks.
