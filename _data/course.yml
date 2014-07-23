@@ -63,7 +63,10 @@ connecting:
 #  title: "HTML Basics"
 #  category: html
 #  language: en
-#  image: /img/drm.jpg
-#  image_attribution: https://www.flickr.com/photos/baughj/
-#  attribution_name: Justin Baugh
+#  image: /img/html-basic.png
 
+#onlinepresence:
+#  title: "Building an Online Presence"
+#  category: onlinepresence
+#  language: en
+#  image: /img/html-basic.png
