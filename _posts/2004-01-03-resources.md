@@ -38,6 +38,12 @@ categories: [net-neutrality]
 
 --[Protecting Net Neutrality and the Open Internet](https://blog.mozilla.org/netpolicy/2014/05/05/protecting-net-neutrality-and-the-open-internet/)
 
+Internet Citizens: Defend Net Neutrality
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/wtt2aSV8wdw" frameborder="0" allowfullscreen></iframe>
+
+Last Week Tonight with John Oliver: Net Neutrality (HBO)
+
 <iframe width="640" height="360" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
 
 ##Actions on the policies around Net Neutrality
