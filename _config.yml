@@ -6,4 +6,5 @@ languages: ['en']
 default_language: 'en'
 permalink: en/:categories/:title/
 ga_tracking_code: UA-48377627-2
-
+gems:
+  - jekyll-redirect-from
