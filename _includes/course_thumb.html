@@ -1,20 +1,21 @@
 <div class="course-image">
-{% if course.image-link %}<a href="{{ course.image-link }}">{% endif %}
-<img src="{{site.baseurl}}{{ course.image }}">
-{% if course.image-link %}</a>{% endif %}
+	{% if course.image-link %}<a href="{{ course.image-link }}">{% endif %}
+		<img src="{{site.baseurl}}{{ course.image }}">
+	{% if course.image-link %}</a>{% endif %}
 
-{% if course.image_attribution %}
-  	
-<a href="{{course.image_attribution}}" class="attribution"><span class="fa fa-camera"></span> {{course.attribution_name}}</a>
-
-{% endif %}
+	{% if course.image_attribution %}
+	<a href="{{course.image_attribution}}" class="attribution"><span class="fa fa-camera"></span> {{course.attribution_name}}</a>
+	{% endif %}
 </div>
 
 <div class="course-badgeimage">
-{% if course.badgeimage %}
-<a href="{{course.badgelink}}"><img src="{{site.baseurl}}{{ course.badgeimage }}"></a>
-<p>
-When you're finished with this module, apply for your <a href="{{course.badgelink}}"><strong>{{course.badgename}}</strong></a> badge.
-</p>
-{% endif %}
+	{% if course.badgeimage %}
+	<a href="{{course.badgelink}}">
+		<img src="{{site.baseurl}}{{ course.badgeimage }}">
+	</a>
+
+	<p>
+		When you're finished with this module, apply for your <a href="{{course.badgelink}}"><strong>{{course.badgename}}</strong></a> badge.
+	</p>
+	{% endif %}
 </div>
