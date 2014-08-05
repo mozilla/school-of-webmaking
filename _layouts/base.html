@@ -39,7 +39,19 @@
 
   <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
   <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+  <!-- Nav Collapse -->
+  <script>
+    // Collapse
+    $('[nav-toggle]').click(function (e) {
+      e.preventDefault();
+      $('.navbar-collapse').toggleClass('collapse');
+    });
+  </script>
+
+  <!-- Tabzilla -->
   <script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+
   <!-- Google Analytics -->
   {% if site.ga_tracking_code %}
     {% include ga.html %}
