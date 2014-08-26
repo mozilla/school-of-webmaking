@@ -1,0 +1,79 @@
+---
+title: <i class="fa fa-hand-o-up"></i> Make
+layout: multicourse_page
+categories: [neutralidad]
+---
+
+<script src="{{site.baseurl}}/js/make-api.js"></script>
+<script src="{{site.baseurl}}/js/makeGallery.js"></script>
+
+# Defendiendo la Neutralidad de la Red: Haz que se escuche tu voz
+
+### 1. Enseña y aprende sobre la Neutralidad de la Red con tus amigos y  familia
+
+<strong>Haz un cartel o un meme sobre la Neutralidad de la Red con tus amigos y familia.</strong> <a href="https://laura.makes.org/thimble/LTIwMDkzMzEyMA==/host-a-maker-party-net-neutrality">Aquí tienes una guía</a> para hacerlo. Comparte tu creación y dale a otros tus opiniones constructivas en <a href="http://discourse.webmakerprototypes.org/category/training/net-neutrality">las discusiones</a>. Estas pequeñas reuniones para aprender son llamadas Maker Parties.
+
+### 2. Remezcla algo para la Neutralidad de la Red
+<strong>Elabora un recurso educacional abierto</strong> diseñado para enseñar algo sobre la Neutralidad de la Red. Intenta encontrar a alguien con quien hacer algo juntos y hagan algo épico. ¡Las mejores actividades hechas durante este entrenamiento tienen la oportunidad de ser añadidas al <a href="https://keyboardkat.makes.org/thimble/LTQzNjIwNzM2MA==/net-neutrality-teaching-kit">Kit de Enseñanza de Neutralidad de la Red</a>!
+
+<div class="gallery">
+<div class="make-gallery row"></div>
+</div>
+<script type="text/javascript">
+			var gallery = new MakeGallery(
+			{
+				tagPrefix: "webmaker:netneutrality-makeprompt",
+				limit: 3
+			},
+			".make-gallery",
+			{
+	    		apiURL: "https://makeapi.webmaker.org",
+                hidden: ["tags", "description"]
+			});
+</script>
+
+<strong>Remezcla el <a href="https://keyboardkat.makes.org/thimble/LTQzNjIwNzM2MA==/net-neutrality-teaching-kit">Kit de Enseñanza de Neutralidad de la Red</a></strong>, actividades asociadas, o <a href="http://webmaker.org/tools">comienza algo desde cero</a>. 
+
+¿Necesitas ayuda con las herramientas de Webmaker? <a href="../../exploring/resources/">Dale una mirada a los recursos que hay en Explora</a>.
+
+### 3. Firma una petición y discute su relevancia
+Las peticiones y los emails son una gran forma de presionar a los que elaboran las políticas. Diles que hagan lo correcto para proteger la neutralidad de la red.
+
+Si estás en Estados Unidos, puedes firmar la <a href="https://sendto.mozilla.org/page/s/protect-net-neutrality">petición de Mozilla</a> y explicar tus razones personales en <a href="http://discourse.webmakerprototypes.org/category/training/net-neutrality">las discusiones</a>. 
+<a href="https://sendto.mozilla.org/page/s/protect-net-neutrality"><img src="http://stuff.webmaker.org/teach-assets/laurarandom/nn-banner.jpg"></a>
+
+Si no estás en los Estados Unidos, es igual importante que le <a href="https://openmedia.org/slowlane">Digas No al Carril Lento de Internet</a>
+<a href="https://openmedia.org/slowlane"><img src="https://openmedia.org/sites/default/files/slowlane%E2%80%93880x200.png"></a>
+
+### 4. ¡Presenta tu primera queja a la FCC!
+Mientras más escuche la FCC directamente a la gente, mejor será protegiendo la Web. Puedes mandar tus comentarios ya sea de forma online o por correo. Cuando comentes, no te olvides de decirle a la FCC por qué la Neutralidad de la Red es importante para ti.
+
+* Puedes usar esta plantilla de EFF <a href="https://www.dearfcc.org/">"Querida FCC"</a> o <a href="http://consumerist.com/2014/05/15/how-to-tell-the-fcc-exactly-what-you-think-about-the-proposed-net-neutrality-rule/">la guía de Consumerist</a> para presentar tu queja. Puedes ver *todas* <a href="http://apps.fcc.gov/ecfs/comment_search/execute?proceeding=14-28">las quejas presentadas</a> sobre este tema. 
+* Presenta tu queja en <a href="http://fcc.gov/comments">http://FCC.gov/comments</a> o al email openinternet@fcc.gov
+* Si prefieres presentarla vía correo o en persona, puedes enviar tus comentarios a: 
+	
+	FCC Secretary Marlene H. Dortch  
+	445 12th Street, SW Room  TW-B204  
+	Washington, DC 20554  
+	
+
+	O, puedes entregarlo personalmente en: 
+	
+	236  Massachusetts  Ave., NE  
+	Suite 110  
+	Washington, DC 20002 
+
+	entre las 8 a.m.  y 7 p.m. ET. ¡Pero no lo lleves en un sobre o caja o no lo recibirán!
+
+* Una vez lo hayas hecho, comparte tu queja en la <a href="http://discourse.webmakerprototypes.org/category/training/net-neutrality">Discusión</a>. 
+
+### 5. Escribe una carta al Editor de tu periódico local
+<a href="https://openmedia.org/slowlane/letter"><img src="https://openmedia.org/sites/default/files/ltte-slowlane1180x260.png"></a>
+Open Media ha creado una <a href="https://openmedia.org/slowlane/letter">herramienta para crear cartas al editor</a> que puedes usar para escribirle una carta a tu periódico local. Asegurémonos de que los miembros del Congreso sepan cómo se sienten sus votantes sobre la Neutralidad de la Red. Si la Neutralidad de la Red no es un problema en tu país, ¿quizás quieras escribirle una carta a un periódico de Estados Unidos y explicarle cómo tu país ha mantenido la apertura de la Web?
+
+### 6. Organiza una Maker Party más grande sobre la Neutralidad de la Red
+<a href="https://events.webmaker.org/#!/event-guides">Organiza un evento más grande</a> para #EnseñarLaWeb y sobre la Neutralidad de la Red. Tenemos montones de <a href="http://party.webmaker.org/resources">recursos</a> para ayudar, y puedes obtener consejos en <a href="http://discourse.webmakerprototypes.org">las discusiones de la comunidad</a>.
+
+- Escoge una fecha y anótala en <a href="https://events.webmaker.org/#!/">el calendario</a>.
+- Ponte en contacto con <a href="http://mozillians.org">Mozilleros locales</a>, organizaciones y/o individuos que piensan igual que tú en tu zona, pídeles que colaboren en una <a href="http://party.webmaker.org">Maker Party</a> sobre la #NeutralidadDeLaRed, ¡o simplemente invita a la gente a venir!
+- Usa <a href="https://keyboardkat.makes.org/thimble/LTQzNjIwNzM2MA==/net-neutrality-teaching-kit">el Kit de Enseñanza de la Neutralidad de la Red</a> para organizar la agenda de tu evento, o remézclalo para personalizar tu evento.
