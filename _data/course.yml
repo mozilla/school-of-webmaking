@@ -51,14 +51,14 @@ connecting:
   badgelink: http://badges.p2pu.org/en/badge/view/431/
   badgename: Webmaker Connector
 
-neutralidad:
-  title: "Neutralidad de la Red"
-  category: neutralidad
-  language: en
-  image: http://www.entrepreneur.com/dbimages/article/1404332257-brief-unfolding-history-net-neutrality-infographic.jpg
-  image-link: http://www.entrepreneur.com/article/235335
-  image_attribution: http://www.entrepreneur.com/article/235335
-  attribution_name: whoishostingthis.com
+#neutralidad:
+#  title: "Neutralidad de la Red"
+#  category: neutralidad
+#  language: en
+#  image: http://www.entrepreneur.com/dbimages/article/1404332257-brief-unfolding-history-net-neutrality-infographic.jpg
+#  image-link: http://www.entrepreneur.com/article/235335
+#  image_attribution: http://www.entrepreneur.com/article/235335
+#  attribution_name: whoishostingthis.com
 
 #drm:
 #  title: "drm"
