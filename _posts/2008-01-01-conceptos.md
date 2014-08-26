@@ -1,5 +1,5 @@
 ---
-title: <span class="fa fa-random"></span> Concepts
+title: <span class="fa fa-random"></span> Conceptos
 layout: multicourse_page
 categories: [neutralidad]
 ---
