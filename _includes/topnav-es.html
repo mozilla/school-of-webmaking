@@ -1,0 +1,108 @@
+{% assign language = 'es' %}
+
+<!-- webmaker branding nav -->
+<nav class="navbar navbar-webmaker">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" nav-toggle>
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars fa-lg"></span>
+      </button>
+
+      <a class="logo webmaker-logo" href="{{site.baseurl}}/es/">
+        <img src="{{site.baseurl}}/img/training-logo.png">
+      </a>
+    </div>
+
+    <a href="https://www.mozilla.org/" id="tabzilla" class="hidden-xs">mozilla</a>
+  </div>
+</nav>
+
+<!-- secondary nav (site) -->
+<nav class="navbar navbar-inverse navbar-no-header-xs">
+  <div class="container">
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="https://sendto.mozilla.org/page/s/webmaker-training">Sign up</a>
+        </li>
+        <li {% if page.start_here %}class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/es/start-here/">Start here</a>
+        </li>
+        <li class="dropdown{% if current_course %} active{% endif %}">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules <i class="caret"></i></a>
+          <ul class="dropdown-menu">
+            {% for course in site.data.course %}
+              {% if course[1].language == language %}
+              <li {% if course[0] == current_course %}class="active"{% endif %}>
+                {% assign course_category=course[1].category %}
+                {% assign cp=site.categories[course_category] | last %}
+                <a href="{{site.baseurl}}{{ cp.url }}">{{course[1].title}}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </li>
+        <li>
+          <a href="https://laura.makes.org/thimble/MTU0MTc5OTkzNg==/maker-party-partner-training">Videos</a>
+        </li>
+        <li {% if page.host_a_training %}class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/es/host-a-training/">Host a training</a>
+        </li>
+        <li {% if page.help %}class="active"{% endif %}>
+          <a href="{{ site.baseurl }}/es/help/">Find help</a>
+        </li>
+      </ul>
+
+      <ul class="nav navbar-nav navbar-right navbar-p2pu">
+        <li>
+          <a href="https://p2pu.org">
+            <span class="hidden-sm">together</span> with <img src="{{site.baseurl}}/img/p2pu-logo.png">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- tertiary nav (module/category/etc...) -->
+<nav class="navbar navbar-no-header-xs navbar-tertiary">
+  <div class="container">
+    <div class="navbar-collapse collapse">
+      {% if page.categories %}
+        <ul class="nav navbar-nav">
+          {% assign course_category = page.categories[0] %}
+          {% assign course=site.data.course[course_category] %}
+
+          {% if course.title %}
+            <li class="course-crumb" ><a href="#">{{ course.title }}</a></li>
+          {% endif %}
+
+          {% for subpage in site.categories[course.category] reversed %}
+            <li class="{% if subpage.title == page.title %}active{% endif %}" >
+              <a href="{{ site.baseur l}}{{ subpage.url }}">{{ subpage.title }}</a>
+            </li>
+          {% endfor %}
+
+          {% if course.category %}
+            <li>
+              <a href="http://discourse.webmakerprototypes.org/category/training/{{course.category}}"><i class="fa fa-comments"></i> Discussion</a>
+            </li>
+          {% endif %}
+        </ul>
+      {% else %}
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a href="https://www.google.com/calendar/embed?src=zythepsary.com_q6ugl9iepetabcp9eg9ltmruic@group.calendar.google.com&ctz=Europe/London"><i class="fa fa-calendar"></i> Calendar</a>
+          </li>
+          <li>
+            <a href="http://discourse.webmakerprototypes.org/"><i class="fa fa-comments"></i> Discussion</a>
+          </li>
+          <li {% if page.badges %}class="active"{% endif %}>
+            <a href="{{ site.baseurl }}/es/badges/"><i class="fa fa-certificate"></i> Badges</a>
+          </li>
+        </ul>
+      {% endif %}
+    </div>
+  </div>
+</nav>
