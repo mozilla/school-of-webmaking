@@ -66,11 +66,18 @@ neutralidad:
   image_attribution: http://www.entrepreneur.com/article/235335
   attribution_name: whoishostingthis.com
 
-#onlinepresence:
-#  title: "Building an Online Presence"
-#  category: onlinepresence
-#  language: en
-#  image: /img/html-basic.png
+onlinepresence:
+  title: "Building an Online Presence"
+  category: onlinepresence
+  category-link: connecting
+  language: en
+  image: /img/onlinepresence.jpg
+  image-link: http://www.theconversationprism.com/
+  image_attribution: Brian Solis and JESS3
+  attribution_name: Brian Solis and JESS3
+  badgeimage: https://badgekit-mozilla.mofoprod.net/images/badge/954
+  badgelink: https://webmaker.org/badges/open-practices-maker
+  badgename: Open Practices Maker
 
 html:
   title: "HTML Basics"
