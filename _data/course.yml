@@ -1,6 +1,7 @@
 net-neutrality:
   title: "Net Neutrality"
   category: net-neutrality
+  category-link: net-neutrality
   language: en
   image: http://www.entrepreneur.com/dbimages/article/1404332257-brief-unfolding-history-net-neutrality-infographic.jpg
   image-link: http://www.entrepreneur.com/article/235335
@@ -10,6 +11,7 @@ net-neutrality:
 exploring:
   title: "Exploring"
   category: exploring
+  category-link: exploring
   language: en
   image: /img/discover-360px.jpg
   image_attribution: http://www.flickr.com/photos/mozillaeu/10491775973/in/photostream/
@@ -21,6 +23,7 @@ exploring:
 building:
   title: "Building"
   category: building
+  category-link: building
   language: en
   image: /img/building-360px.jpg
   image_attribution: https://secure.flickr.com/photos/debloper/10607673915/in/photostream/
@@ -32,6 +35,7 @@ building:
 facilitating:
   title: "Facilitating"
   category: facilitating
+  category-link: facilitating
   language: en
   image: /img/facilitating-360px.jpg
   image_attribution: https://secure.flickr.com/photos/sylwiapresleyart/
@@ -43,6 +47,7 @@ facilitating:
 connecting:
   title: "Connecting"
   category: connecting
+  category-link: connecting
   language: en
   image: /img/connecting.jpg
   image_attribution: http://webmaker.org?ref=training
@@ -54,11 +59,31 @@ connecting:
 neutralidad:
   title: "Neutralidad de la Red"
   category: neutralidad
+  category-link: net-neutrality
   language: en
   image: http://www.entrepreneur.com/dbimages/article/1404332257-brief-unfolding-history-net-neutrality-infographic.jpg
   image-link: http://www.entrepreneur.com/article/235335
   image_attribution: http://www.entrepreneur.com/article/235335
   attribution_name: whoishostingthis.com
+
+#onlinepresence:
+#  title: "Building an Online Presence"
+#  category: onlinepresence
+#  language: en
+#  image: /img/html-basic.png
+
+html:
+  title: "HTML Basics"
+  category: html
+  category-link: exploring
+  language: en
+  image: /img/html-basic.png
+  image-link: http://thimble.webmaker.org
+  image_attribution: http://www.zythepsary.com
+  attribution_name: zythepsary.com
+  badgeimage: http://stuff.webmaker.org/badges/composing-makerbadge.png
+  badgelink: http://webmaker.org/badges/composing-maker
+  badgename: Composing for the Web Maker
 
 #drm:
 #  title: "drm"
@@ -68,14 +93,5 @@ neutralidad:
 #  image_attribution: https://www.flickr.com/photos/baughj/
 #  attribution_name: Justin Baugh
 
-#html:
-#  title: "HTML Basics"
-#  category: html
-#  language: en
-#  image: /img/html-basic.png
 
-#onlinepresence:
-#  title: "Building an Online Presence"
-#  category: onlinepresence
-#  language: en
-#  image: /img/html-basic.png
+
