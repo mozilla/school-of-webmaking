@@ -16,5 +16,5 @@ The <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Develope
 
 ##Notice
 <div class="alert alert-info">
-<strong>This module is under active development.</strong> We'd LOVE your help making this content better. <a href="http://discourse.webmakerprototypes.org/category/training/connecting">Join the discussion forum</a> and let us know how you'd like to improve the content or get involved.
+<strong>This module is under active development.</strong> We'd LOVE your help making this content better. <a href="http://discourse.webmakerprototypes.org/category/training/connecting">Join the discussion forum</a> and let us know how you'd like to improve the content or or <a href="https://github.com/mozilla/school-of-webmaking/issues">start filing issues</a> to get involved.
 </div>
