@@ -71,7 +71,7 @@
     <div class="navbar-collapse collapse">
       {% if page.categories %}
         <ul class="nav navbar-nav">
-          {% assign course_category = page.categories[0] %}
+          {% assign course_category = page.categories[1] %}
           {% assign course=site.data.course[course_category] %}
 
           {% if course.title %}
