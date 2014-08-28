@@ -24,10 +24,10 @@
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-          <a href="https://sendto.mozilla.org/page/s/webmaker-training">Sign up</a>
+          <a href="https://sendto.mozilla.org/page/s/webmaker-training">Inscribe</a>
         </li>
         <li {% if page.start_here %}class="active"{% endif %}>
-          <a href="{{ site.baseurl }}/es/start-here/">Start here</a>
+          <a href="{{ site.baseurl }}/es/start-here/">Iniciar aqui</a>
         </li>
         <li class="dropdown{% if current_course %} active{% endif %}">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules <i class="caret"></i></a>
@@ -50,14 +50,14 @@
           <a href="{{ site.baseurl }}/es/host-a-training/">Host a training</a>
         </li>
         <li {% if page.help %}class="active"{% endif %}>
-          <a href="{{ site.baseurl }}/es/help/">Find help</a>
+          <a href="{{ site.baseurl }}/es/help/">Hallar ayuda</a>
         </li>
       </ul>
 
       <ul class="nav navbar-nav navbar-right navbar-p2pu">
         <li>
           <a href="https://p2pu.org">
-            <span class="hidden-sm">together</span> with <img src="{{site.baseurl}}/img/p2pu-logo.png">
+            conjunto <img src="{{site.baseurl}}/img/p2pu-logo.png">
           </a>
         </li>
       </ul>
@@ -86,7 +86,7 @@
 
           {% if course.category %}
             <li>
-              <a href="http://discourse.webmakerprototypes.org/category/training/{{course.category}}"><i class="fa fa-comments"></i> Discussion</a>
+              <a href="http://discourse.webmakerprototypes.org/category/training/{{course.category}}"><i class="fa fa-comments"></i> Foros</a>
             </li>
           {% endif %}
         </ul>
@@ -96,7 +96,7 @@
             <a href="https://www.google.com/calendar/embed?src=zythepsary.com_q6ugl9iepetabcp9eg9ltmruic@group.calendar.google.com&ctz=Europe/London"><i class="fa fa-calendar"></i> Calendar</a>
           </li>
           <li>
-            <a href="http://discourse.webmakerprototypes.org/"><i class="fa fa-comments"></i> Discussion</a>
+            <a href="http://discourse.webmakerprototypes.org/"><i class="fa fa-comments"></i> Foros</a>
           </li>
           <li {% if page.badges %}class="active"{% endif %}>
             <a href="{{ site.baseurl }}/es/badges/"><i class="fa fa-certificate"></i> Badges</a>

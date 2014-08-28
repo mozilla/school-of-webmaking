@@ -2,6 +2,7 @@
 title: <span class="fa fa-random"></span> Conceptos
 layout: multicourse_page
 categories: [neutralidad]
+permalink: /es/neutralidad/conceptos/
 ---
 
 #¿Qué <em>es</em> la Neutralidad de la Red?
