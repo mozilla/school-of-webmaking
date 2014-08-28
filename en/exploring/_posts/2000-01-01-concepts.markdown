@@ -1,7 +1,6 @@
 ---
 title: <span class="fa fa-random"></span> Concepts
 layout: multicourse_page
-categories: [exploring]
 ---
 
 # Explore the principles behind Webmaker.
